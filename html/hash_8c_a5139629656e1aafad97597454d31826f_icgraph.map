@@ -1,0 +1,5 @@
+<map id="remove_elem" name="remove_elem">
+<area shape="rect" id="node1" title="Removes E from hash table H." alt="" coords="156,31,259,57"/>
+<area shape="rect" id="node2" href="$hash_8c.html#ae6883a2cfbe20dfc98e5f85693993c5a" title="Finds, removes, and returns an element equal to E in hash table H." alt="" coords="9,5,104,32"/>
+<area shape="rect" id="node3" href="$hash_8c.html#ad517eb96a6288f0ffebe0b66ef47a0fe" title="Inserts NEW into hash table H, replacing any equal element already in the table, which is returned." alt="" coords="5,56,108,83"/>
+</map>

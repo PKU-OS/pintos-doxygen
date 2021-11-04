@@ -1,0 +1,26 @@
+<map id="pte_get_page" name="pte_get_page">
+<area shape="rect" id="node1" title="Returns a pointer to the page that page table entry PTE points to." alt="" coords="1376,183,1480,209"/>
+<area shape="rect" id="node2" href="$pagedir_8c.html#ab1919f57e1ba60ed2c2f46b4410e9799" title="Destroys page directory PD, freeing all the pages it references." alt="" coords="1205,157,1322,184"/>
+<area shape="rect" id="node20" href="$pagedir_8c.html#a8093fa1c0a54bdc624cb6fb619a86746" title="Looks up the physical address that corresponds to user virtual address UADDR in PD." alt="" coords="1199,208,1328,235"/>
+<area shape="rect" id="node3" href="$process_8c.html#aebdb54e5e3307f27106f43a7c4d3536c" title="Free the current process&#39;s resources." alt="" coords="1053,157,1151,184"/>
+<area shape="rect" id="node4" href="$thread_8c.html#a87c2438941819bb3cc31658aa9eb66fe" title="Deschedules the current thread and destroys it." alt="" coords="909,157,997,184"/>
+<area shape="rect" id="node5" href="$thread_8c.html#ac40007d0837868671dffa80f581b4723" title="Function used as the basis for a kernel thread." alt="" coords="743,157,847,184"/>
+<area shape="rect" id="node10" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,151,88,177"/>
+<area shape="rect" id="node15" href="$exception_8c.html#a6984b10e1d2a817938f8e70a89d13ff9" title="Handler for an exception (probably) caused by a user process." alt="" coords="776,5,815,32"/>
+<area shape="rect" id="node18" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="587,259,690,285"/>
+<area shape="rect" id="node19" href="$userprog_2syscall_8c.html#a433a22b69ff6c6b56fe2bd9214c2ecc9" title=" " alt="" coords="739,56,852,83"/>
+<area shape="rect" id="node6" href="$thread_8c.html#a8f7759a71c1c49fc8761ef92aa90a36d" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="587,208,691,235"/>
+<area shape="rect" id="node7" href="$process_8c.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="416,360,539,387"/>
+<area shape="rect" id="node11" href="$synch_8c.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="421,259,533,285"/>
+<area shape="rect" id="node12" href="$mlfqs-fair_8c.html#a5c0bb7da290ed5c6c31e55eb73e1cbe6" title="Measures the correctness of the &quot;nice&quot; implementation." alt="" coords="423,309,532,336"/>
+<area shape="rect" id="node13" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="436,157,519,184"/>
+<area shape="rect" id="node14" href="$thread_8c.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="275,176,368,203"/>
+<area shape="rect" id="node8" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="285,340,358,367"/>
+<area shape="rect" id="node9" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,264,227,291"/>
+<area shape="rect" id="node16" href="$exception_8c.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="425,56,529,83"/>
+<area shape="rect" id="node17" href="$exception_8c.html#a22263f7481f54fafb7a06f63ea1675c3" title="Page fault handler." alt="" coords="597,5,681,32"/>
+<area shape="rect" id="node21" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="1055,208,1149,235"/>
+<area shape="rect" id="node22" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="900,259,1005,285"/>
+<area shape="rect" id="node24" href="$process_8c.html#a5064a62e44eba6572e28f9e2274b4e84" title="Create a minimal stack by mapping a zeroed page at the top of user virtual memory." alt="" coords="906,208,999,235"/>
+<area shape="rect" id="node23" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="772,259,819,285"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="close" name="close">
+<area shape="rect" id="node1" title=" " alt="" coords="455,309,508,336"/>
+<area shape="rect" id="node2" href="$tar_8c.html#a736a422fc49cb04f6601997fb136c19c" title=" " alt="" coords="313,5,403,32"/>
+<area shape="rect" id="node4" href="$tar_8c.html#a5758c0d6627e2210b6e18ec360169e91" title=" " alt="" coords="133,56,261,83"/>
+<area shape="rect" id="node6" href="$lib_8c.html#a904d20a186bc5ffec3da0c1045bd2cf4" title=" " alt="" coords="317,157,399,184"/>
+<area shape="rect" id="node7" href="$seq-test_8c.html#ad8cec223129971af68dbb2b7671dcf3a" title="tests/filesys/seq&#45;test.h" alt="" coords="161,107,233,133"/>
+<area shape="rect" id="node10" href="$pwd_8c.html#af88ec6b85d296548f011f7411c91ec19" title="Stores the inode number for FILE_NAME in *INUM." alt="" coords="310,208,406,235"/>
+<area shape="rect" id="node11" href="$pwd_8c.html#ab88726ef2d677a5f50d9a1142d1e4bc6" title="pwd.c" alt="" coords="165,233,229,260"/>
+<area shape="rect" id="node13" href="$squish-pty_8c.html#aaf271489dd0dc19bd6303cb6b9901929" title="Handle a read or write on *FD, which is the pty if FD_IS_PTY is true, that returned end&#45;of&#45;file or er..." alt="" coords="309,309,407,336"/>
+<area shape="rect" id="node16" href="$ls_8c.html#a003d186b646e107c840ee66ad3d2fd1d" title="ls.c" alt="" coords="328,360,388,387"/>
+<area shape="rect" id="node18" href="$cat_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="cat.c" alt="" coords="333,411,383,437"/>
+<area shape="rect" id="node19" href="$mk-tree_8c.html#ac53d689b3ffd5dd7489dcaa471ebb9ab" title="tests/filesys/extended/mk&#45;tree.h" alt="" coords="315,461,401,488"/>
+<area shape="rect" id="node21" href="$page-merge-seq_8c.html#a44e97d47c126cfbe7372e4b0269720b4" title="Sort each chunk of buf1 using a subprocess." alt="" coords="311,512,405,539"/>
+<area shape="rect" id="node23" href="$syn-read_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="318,563,398,589"/>
+<area shape="rect" id="node25" href="$child-rox_8c.html#a65e0c8d79afbd8a3cc20901d01540b94" title=" " alt="" coords="322,613,394,640"/>
+<area shape="rect" id="node3" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="135,5,259,32"/>
+<area shape="rect" id="node5" href="$tar_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="20,56,71,83"/>
+<area shape="rect" id="node9" href="$grow-sparse_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="157,157,237,184"/>
+<area shape="rect" id="node8" href="$grow-file-size_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="5,107,85,133"/>
+<area shape="rect" id="node12" href="$pwd_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="20,233,71,260"/>
+<area shape="rect" id="node14" href="$squish-pty_8c.html#a85b966702ccfe9626963ca230aa75c74" title="Copies data from stdin to PTY and from PTY to stdout until no more data can be read or written." alt="" coords="172,309,223,336"/>
+<area shape="rect" id="node15" href="$squish-pty_8c.html#aad96cfd5b985d826fb68b8b343e5a0c8" title=" " alt="" coords="20,309,71,336"/>
+<area shape="rect" id="node17" href="$ls_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="172,360,223,387"/>
+<area shape="rect" id="node20" href="$dir-mk-tree_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Creates directories /0/0/0 through /3/2/2 and creates files in the leaf directories." alt="" coords="157,461,237,488"/>
+<area shape="rect" id="node22" href="$page-merge-seq_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="157,512,237,539"/>
+<area shape="rect" id="node24" href="$main_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="172,563,223,589"/>
+<area shape="rect" id="node26" href="$child-rox_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="172,613,223,640"/>
+</map>

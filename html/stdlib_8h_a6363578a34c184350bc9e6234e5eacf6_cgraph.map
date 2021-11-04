@@ -1,0 +1,8 @@
+<map id="qsort" name="qsort">
+<area shape="rect" id="node1" title="Sorts ARRAY, which contains CNT elements of SIZE bytes each, using COMPARE." alt="" coords="5,31,57,57"/>
+<area shape="rect" id="node2" href="$lib_2stdlib_8c.html#aa2266c071c588f926a78b8f4b45bdb24" title="Compares A and B by calling the AUX function." alt="" coords="105,5,219,32"/>
+<area shape="rect" id="node3" href="$lib_2stdlib_8c.html#ac47c49fa293064a62f9e56f28faa0ecc" title="Sorts ARRAY, which contains CNT elements of SIZE bytes each, using COMPARE to compare elements,..." alt="" coords="140,56,184,83"/>
+<area shape="rect" id="node4" href="$lib_2stdlib_8c.html#a54ba6c0fa03b2d237cb7cef17a9c731b" title="Swaps elements with 1&#45;based indexes A_IDX and B_IDX in ARRAY with elements of SIZE bytes each." alt="" coords="390,31,466,57"/>
+<area shape="rect" id="node5" href="$lib_2stdlib_8c.html#a032a24a1d606f6ebaebedf357d90c748" title="&quot;Float down&quot; the element with 1&#45;based index I in ARRAY of CNT elements of SIZE bytes each,..." alt="" coords="267,81,332,108"/>
+<area shape="rect" id="node6" href="$lib_2stdlib_8c.html#afc2d669e1b3b09f26eed4dabcb1be568" title="Compares elements with 1&#45;based indexes A_IDX and B_IDX in ARRAY with elements of SIZE bytes each,..." alt="" coords="380,81,476,108"/>
+</map>

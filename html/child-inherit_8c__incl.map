@@ -1,0 +1,11 @@
+<map id="src/tests/vm/child&#45;inherit.c" name="src/tests/vm/child&#45;inherit.c">
+<area shape="rect" id="node1" title=" " alt="" coords="169,5,293,47"/>
+<area shape="rect" id="node2" href="$string_8h.html" title=" " alt="" coords="5,95,71,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="95,95,234,121"/>
+<area shape="rect" id="node5" href="$lib_8h.html" title=" " alt="" coords="259,95,337,121"/>
+<area shape="rect" id="node9" href="$main_8h.html" title=" " alt="" coords="362,95,455,121"/>
+<area shape="rect" id="node3" href="$stddef_8h.html" title=" " alt="" coords="38,169,107,196"/>
+<area shape="rect" id="node6" href="$debug_8h.html" title=" " alt="" coords="165,169,236,196"/>
+<area shape="rect" id="node7" href="$stdbool_8h.html" title=" " alt="" coords="260,169,336,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="360,169,433,196"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="partition_read" name="partition_read">
+<area shape="rect" id="node1" title="Reads sector SECTOR from partition P into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node2" href="$block_8c.html#a8c08b3ab03d5cdb52856bab0aafe7006" title="Reads sector SECTOR from BLOCK into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="157,5,244,32"/>
+<area shape="rect" id="node3" href="$block_8c.html#a987bd0fa2cc9d2510f3756532f120d25" title="Verifies that SECTOR is a valid offset within BLOCK." alt="" coords="292,5,392,32"/>
+<area shape="rect" id="node4" href="$block_8c.html#abfb4cd8ff36ddbdf93ebc1944ccfbd4d" title="Returns BLOCK&#39;s name (e.g." alt="" coords="440,5,533,32"/>
+</map>

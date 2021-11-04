@@ -1,0 +1,23 @@
+<map id="pagedir_destroy" name="pagedir_destroy">
+<area shape="rect" id="node1" title="Destroys page directory PD, freeing all the pages it references." alt="" coords="5,208,123,235"/>
+<area shape="rect" id="node2" href="$palloc_8c.html#ad3fe56f7c611216596e7565fb8521409" title="Frees the page at PAGE." alt="" coords="171,132,295,159"/>
+<area shape="rect" id="node18" href="$pte_8h.html#ab6096b535a162bafc551af35b9ec411b" title="Obtains page directory index from a virtual address." alt="" coords="203,183,262,209"/>
+<area shape="rect" id="node19" href="$pte_8h.html#af261409ae0b2376eb84f0141af6269df" title="Returns a pointer to the page table that page directory entry PDE, which must &quot;present&quot;,..." alt="" coords="188,233,277,260"/>
+<area shape="rect" id="node21" href="$pte_8h.html#a74bfe6c82c7b9fe6c3d8a95bf720615c" title="Returns a pointer to the page that page table entry PTE points to." alt="" coords="181,284,285,311"/>
+<area shape="rect" id="node3" href="$palloc_8c.html#af4c2af0e0bdc81d1ea21354c4234b20e" title="Frees the PAGE_CNT pages starting at PAGES." alt="" coords="343,132,483,159"/>
+<area shape="rect" id="node4" href="$bitmap_8c.html#ab8910020ce78e389457c0607990d04d3" title="Returns true if every bit in B between START and START + CNT, exclusive, is set to true,..." alt="" coords="559,5,642,32"/>
+<area shape="rect" id="node9" href="$bitmap_8c.html#a7b2eaaf4ee3c0f7794b4e5293f3b9760" title="Sets the CNT bits starting at START in B to VALUE." alt="" coords="531,56,671,83"/>
+<area shape="rect" id="node13" href="$string_8c.html#a32f4138a368f78ed6d4339e679641261" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="566,107,635,133"/>
+<area shape="rect" id="node14" href="$palloc_8c.html#a2adf802e51d008838946d621cb4e8fb2" title="Returns true if PAGE was allocated from POOL, false otherwise." alt="" coords="541,157,660,184"/>
+<area shape="rect" id="node16" href="$vaddr_8h.html#a1efae7b168a7e2234c0e4022d889bdc8" title="Virtual page number." alt="" coords="749,208,807,235"/>
+<area shape="rect" id="node17" href="$vaddr_8h.html#ac12acb882dfd1a70e6c8f69935dc3747" title="Offset within a page." alt="" coords="569,259,632,285"/>
+<area shape="rect" id="node5" href="$bitmap_8c.html#a90f5f9e5e7afbd943d0c6c33fc0d8557" title="Returns true if any bits in B between START and START + CNT, exclusive, are set to VALUE,..." alt="" coords="719,5,837,32"/>
+<area shape="rect" id="node6" href="$bitmap_8c.html#ab8d6660c5e30dab9cecef1240c7423d9" title="Returns the value of the bit numbered IDX in B." alt="" coords="889,5,980,32"/>
+<area shape="rect" id="node7" href="$bitmap_8c.html#acc12f810fdb7b50a620c3852c3656d63" title="Returns an elem_type where only the bit corresponding to BIT_IDX is turned on." alt="" coords="1032,31,1108,57"/>
+<area shape="rect" id="node8" href="$bitmap_8c.html#abb94f95006e0ec6ff6b5c88262f28d74" title="Returns the index of the element that contains the bit numbered BIT_IDX." alt="" coords="1032,81,1108,108"/>
+<area shape="rect" id="node10" href="$bitmap_8c.html#a766a7941acc1371fb82ed4f70a1ecf37" title="Setting and testing single bits." alt="" coords="735,56,821,83"/>
+<area shape="rect" id="node11" href="$bitmap_8c.html#adb8912537854d4a2dcb1f35940a7134b" title="Atomically sets the bit numbered BIT_IDX in B to true." alt="" coords="885,107,984,133"/>
+<area shape="rect" id="node12" href="$bitmap_8c.html#a5bb6be898ca442c95e725be80c2369a6" title="Atomically sets the bit numbered BIT_IDX in B to false." alt="" coords="885,56,984,83"/>
+<area shape="rect" id="node15" href="$bitmap_8c.html#a576f7d29f091eac024f70ae8d68997a9" title="Bitmap size." alt="" coords="731,157,825,184"/>
+<area shape="rect" id="node20" href="$vaddr_8h.html#ac8ca05e66698904ad6a0c6ec2ad95e1c" title="Returns kernel virtual address at which physical address PADDR is mapped." alt="" coords="389,259,436,285"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="sleep_thread" name="sleep_thread">
+<area shape="rect" id="node1" title="Information about an individual thread in the test." alt="" coords="5,481,104,508"/>
+<area shape="rect" id="node2" href="$structsleep__test.html" title="Information about the test." alt="" coords="13,392,96,419"/>
+<area shape="rect" id="node3" href="$structlock.html" title="Lock." alt="" coords="32,303,77,329"/>
+<area shape="rect" id="node4" href="$structthread.html" title="A kernel thread or user process." alt="" coords="19,163,79,189"/>
+<area shape="rect" id="node5" href="$structlist__elem.html" title="Doubly linked list." alt="" coords="59,7,133,33"/>
+<area shape="rect" id="node7" href="$structlist.html" title="List." alt="" coords="121,112,159,139"/>
+<area shape="rect" id="node6" href="$structsemaphore.html" title="A counting semaphore." alt="" coords="99,213,189,240"/>
+</map>

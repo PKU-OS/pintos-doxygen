@@ -1,0 +1,4 @@
+<map id="inode_deny_write" name="inode_deny_write">
+<area shape="rect" id="node1" title="Disables writes to INODE." alt="" coords="164,5,291,32"/>
+<area shape="rect" id="node2" href="$file_8c.html#aa3d3b96cd45ef585d53ec95adcc06117" title="Prevents write operations on FILE&#39;s underlying inode until file_allow_write() is called or FILE is cl..." alt="" coords="5,5,116,32"/>
+</map>

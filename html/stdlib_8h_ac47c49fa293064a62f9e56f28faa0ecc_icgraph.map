@@ -1,0 +1,5 @@
+<map id="sort" name="sort">
+<area shape="rect" id="node1" title="Nonstandard functions." alt="" coords="197,5,241,32"/>
+<area shape="rect" id="node2" href="$lib_2stdlib_8c.html#a6363578a34c184350bc9e6234e5eacf6" title="Sorts ARRAY, which contains CNT elements of SIZE bytes each, using COMPARE." alt="" coords="97,5,149,32"/>
+<area shape="rect" id="node3" href="$tests_2internal_2stdlib_8c.html#a708a4c1a4d0c4acc4c447310dd4db27f" title="Test sorting and searching implementations." alt="" coords="5,5,49,32"/>
+</map>

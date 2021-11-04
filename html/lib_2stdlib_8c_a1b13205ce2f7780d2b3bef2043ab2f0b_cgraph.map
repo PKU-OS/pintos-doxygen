@@ -1,0 +1,5 @@
+<map id="bsearch" name="bsearch">
+<area shape="rect" id="node1" title="Searches ARRAY, which contains CNT elements of SIZE bytes each, for the given KEY." alt="" coords="5,31,75,57"/>
+<area shape="rect" id="node2" href="$lib_2stdlib_8c.html#a75297c7c06477082fa2c46ef12ad9f02" title="Searches ARRAY, which contains CNT elements of SIZE bytes each, for the given KEY." alt="" coords="127,5,232,32"/>
+<area shape="rect" id="node3" href="$lib_2stdlib_8c.html#aa2266c071c588f926a78b8f4b45bdb24" title="Compares A and B by calling the AUX function." alt="" coords="123,56,236,83"/>
+</map>

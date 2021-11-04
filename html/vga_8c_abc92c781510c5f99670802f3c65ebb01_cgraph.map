@@ -1,0 +1,5 @@
+<map id="newline" name="newline">
+<area shape="rect" id="node1" title="Advances the cursor to the first column in the next line on the screen." alt="" coords="5,31,72,57"/>
+<area shape="rect" id="node2" href="$vga_8c.html#a45e9968eec2281219a9fdb355c77930e" title="Clears row Y to spaces." alt="" coords="122,5,202,32"/>
+<area shape="rect" id="node3" href="$string_8c.html#a5f1044208aaec0cf4e40beca9c5bef9c" title="Copies SIZE bytes from SRC to DST, which are allowed to overlap." alt="" coords="120,56,204,83"/>
+</map>

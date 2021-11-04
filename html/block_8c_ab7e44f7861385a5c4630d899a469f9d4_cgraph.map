@@ -1,0 +1,5 @@
+<map id="block_write" name="block_write">
+<area shape="rect" id="node1" title="Write sector SECTOR to BLOCK from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node2" href="$block_8c.html#a987bd0fa2cc9d2510f3756532f120d25" title="Verifies that SECTOR is a valid offset within BLOCK." alt="" coords="143,5,243,32"/>
+<area shape="rect" id="node3" href="$block_8c.html#abfb4cd8ff36ddbdf93ebc1944ccfbd4d" title="Returns BLOCK&#39;s name (e.g." alt="" coords="291,5,384,32"/>
+</map>

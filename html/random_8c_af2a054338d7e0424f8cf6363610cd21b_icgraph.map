@@ -1,0 +1,24 @@
+<map id="random_init" name="random_init">
+<area shape="rect" id="node1" title="Initializes or reinitializes the PRNG with the given SEED." alt="" coords="783,378,875,404"/>
+<area shape="rect" id="node2" href="$multi-oom_8c.html#afef5a7de663f5a18f2b09075f4b7f107" title="Consume some resources, then terminate this process in some abnormal way." alt="" coords="243,9,425,50"/>
+<area shape="rect" id="node4" href="$insult_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="124,100,175,127"/>
+<area shape="rect" id="node5" href="$init_8c.html#a598c2f3a0a33552aa203aa847dc265b6" title="Parses options in ARGV[] and returns the first non&#45;option argument." alt="" coords="629,555,734,582"/>
+<area shape="rect" id="node7" href="$random_8c.html#a9273f69f7fecbc77cca0204baaaf175a" title="Writes SIZE random bytes into BUF." alt="" coords="628,378,735,404"/>
+<area shape="rect" id="node18" href="$grow-two-files_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="109,428,189,455"/>
+<area shape="rect" id="node3" href="$multi-oom_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="The first copy is invoked without command line arguments." alt="" coords="124,16,175,43"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="485,555,568,582"/>
+<area shape="rect" id="node8" href="$child-syn-read_8c.html#ac0f2228420376f4db7e1274f2b41667c" title=" " alt="" coords="501,352,552,379"/>
+<area shape="rect" id="node9" href="$random_8c.html#a17f74993b2b5314bf3479f2b47090991" title="Returns a pseudo&#45;random unsigned long." alt="" coords="473,251,580,278"/>
+<area shape="rect" id="node19" href="$seq-test_8c.html#ad8cec223129971af68dbb2b7671dcf3a" title="tests/filesys/seq&#45;test.h" alt="" coords="491,403,563,430"/>
+<area shape="rect" id="node21" href="$syn-read_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="487,454,567,480"/>
+<area shape="rect" id="node10" href="$insult_8c.html#a6a4e1d1b146e74290b5991c19c12543e" title=" " alt="" coords="301,150,367,176"/>
+<area shape="rect" id="node11" href="$qsort_8c.html#a43d87f7bdfcdecaec5b28ebfe33b3b2a" title="Picks a pivot for the quicksort from the SIZE bytes in BUF." alt="" coords="293,200,375,227"/>
+<area shape="rect" id="node14" href="$tests_2internal_2list_8c.html#a21fbb003844b03b0c7ceedf69f12f38a" title="Shuffles the CNT elements in ARRAY into random order." alt="" coords="303,251,365,278"/>
+<area shape="rect" id="node15" href="$tests_2internal_2list_8c.html#a708a4c1a4d0c4acc4c447310dd4db27f" title="Test the linked list implementation." alt="" coords="312,302,356,328"/>
+<area shape="rect" id="node17" href="$grow-two-files_8c.html#afae26c760b28a632091df7565c0e8224" title=" " alt="" coords="269,352,399,379"/>
+<area shape="rect" id="node12" href="$qsort_8c.html#a97da28846f67c9c28793f03e490e22fa" title="Sorts the SIZE bytes in BUF into nondecreasing order, using the quick&#45;sort algorithm." alt="" coords="104,200,195,227"/>
+<area shape="rect" id="node13" href="$child-qsort-mm_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="5,200,56,227"/>
+<area shape="rect" id="node16" href="$alarm-wait_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="108,302,191,328"/>
+<area shape="rect" id="node20" href="$grow-file-size_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="294,403,374,430"/>
+<area shape="rect" id="node22" href="$main_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="309,454,359,480"/>
+</map>

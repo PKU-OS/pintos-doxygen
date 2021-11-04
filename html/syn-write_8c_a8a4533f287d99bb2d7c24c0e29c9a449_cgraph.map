@@ -1,0 +1,52 @@
+<map id="test_main" name="test_main">
+<area shape="rect" id="node1" title="tests/main.h" alt="" coords="5,676,85,703"/>
+<area shape="rect" id="node2" href="$lib_8c.html#a4b2d14053f00e1d846dc10288ac3d474" title="test/lib.h" alt="" coords="133,625,247,652"/>
+<area shape="rect" id="node41" href="$lib_2user_2syscall_8c.html#a352dd80fdc4fdb4689aac9555fe28202" title=" " alt="" coords="161,575,219,601"/>
+<area shape="rect" id="node42" href="$lib_8c.html#af3644d5e9c28c2289678d548d13396f7" title=" " alt="" coords="138,448,242,475"/>
+<area shape="rect" id="node44" href="$lib_2user_2syscall_8c.html#a703a13bc53a317ea70b87280ad3d974e" title=" " alt="" coords="164,676,216,703"/>
+<area shape="rect" id="node45" href="$random_8c.html#a9273f69f7fecbc77cca0204baaaf175a" title="Writes SIZE random bytes into BUF." alt="" coords="137,727,243,753"/>
+<area shape="rect" id="node48" href="$lib_2user_2syscall_8c.html#ab0f9f22d375a9229b3c77859cf2035a0" title=" " alt="" coords="165,777,215,804"/>
+<area shape="rect" id="node49" href="$lib_8c.html#add7d188584111e5b6268175f0aab9d91" title=" " alt="" coords="140,828,240,855"/>
+<area shape="rect" id="node3" href="$lib_8c.html#a7380daad7085b08d0e037abc3136dccd" title=" " alt="" coords="321,625,360,652"/>
+<area shape="rect" id="node21" href="$lib_2stdio_8c.html#af29b397e488c767a37e2f44c787b4746" title="Dumps the SIZE bytes in BUF to the console as hex bytes arranged 16 per line." alt="" coords="299,524,383,551"/>
+<area shape="rect" id="node39" href="$string_8c.html#a19c6163b9e87b586f4ddb7773faf9172" title="Find the first differing byte in the two blocks of SIZE bytes at A and B." alt="" coords="302,676,379,703"/>
+<area shape="rect" id="node40" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="317,575,364,601"/>
+<area shape="rect" id="node4" href="$lib_2user_2syscall_8c.html#a55e99c539cf7723ec15e856b7e0a8cee" title=" " alt="" coords="456,651,499,677"/>
+<area shape="rect" id="node5" href="$lib_8c.html#a3844191cdd54f12ebfa3eee6d1a79ea1" title=" " alt="" coords="451,600,504,627"/>
+<area shape="rect" id="node6" href="$lib_2stdio_8c.html#a913035b9a30cd1b34c5e587dfbf26f92" title="Like printf(), except that output is stored into BUFFER, which must have space for BUF_SIZE character..." alt="" coords="568,499,633,525"/>
+<area shape="rect" id="node7" href="$lib_2stdio_8c.html#a1286c6b071007938f54e9b859109f89d" title="Like vprintf(), except that output is stored into BUFFER, which must have space for BUF_SIZE characte..." alt="" coords="697,549,769,576"/>
+<area shape="rect" id="node17" href="$string_8c.html#a4637af6f79bac4043e1064f0837d0ddc" title="Copies string SRC to DST." alt="" coords="571,651,631,677"/>
+<area shape="rect" id="node19" href="$string_8c.html#a2869404e70f06f4477271f26ce8c4920" title="Returns the length of STRING." alt="" coords="705,600,760,627"/>
+<area shape="rect" id="node20" href="$lib_2user_2syscall_8c.html#a7d9f2533bbf31e3d1d4c5e1454efd41d" title=" " alt="" coords="575,701,626,728"/>
+<area shape="rect" id="node8" href="$lib_2stdio_8c.html#a54580ccfcedfa31b4b384cacc8966519" title="Internal functions." alt="" coords="862,549,935,576"/>
+<area shape="rect" id="node16" href="$lib_2stdio_8c.html#acdff2b19969329b7777564346ac98c5d" title="Helper function for vsnprintf()." alt="" coords="840,600,957,627"/>
+<area shape="rect" id="node9" href="$lib_2stdio_8c.html#a1759795abada0ce655326c0754a46c96" title="Wrapper for __vprintf() that converts varargs into a va_list." alt="" coords="1072,676,1139,703"/>
+<area shape="rect" id="node10" href="$lib_2stdio_8c.html#afe54765b33c418c6ceeaea8cc30eea9a" title="Performs an integer conversion, writing output to OUTPUT with auxiliary data AUX." alt="" coords="1051,524,1159,551"/>
+<area shape="rect" id="node12" href="$lib_2stdio_8c.html#afb7ef1a1027f82aa276d48354a0b9218" title="Formats the LENGTH characters starting at STRING according to the conversion specified in C." alt="" coords="1055,625,1155,652"/>
+<area shape="rect" id="node13" href="$lib_2stdio_8c.html#a6b06e855119acdd96dbc1bf3336cd2c7" title="Parses conversion option characters starting at FORMAT and initializes C appropriately." alt="" coords="1042,473,1169,500"/>
+<area shape="rect" id="node15" href="$string_8c.html#a0862027ba42b443d4ce8ff4a0d9b6459" title="If STRING is less than MAXLEN characters in length, returns its actual length." alt="" coords="1074,575,1137,601"/>
+<area shape="rect" id="node11" href="$lib_2stdio_8c.html#a9248d4643c7dd4c03f632fb1ce2b9d5f" title="Writes CH to OUTPUT with auxiliary data AUX, CNT times." alt="" coords="1275,604,1365,631"/>
+<area shape="rect" id="node14" href="$ctype_8h.html#ad7fd5ce3790b81c86de5502ff6853f3a" title=" " alt="" coords="1292,532,1348,559"/>
+<area shape="rect" id="node18" href="$string_8c.html#a75301dc67774ade574b3b3205ee4f39e" title="Copies SIZE bytes from SRC to DST, which must not overlap." alt="" coords="697,651,769,677"/>
+<area shape="rect" id="node22" href="$ctype_8h.html#ab14b97a75cf7392a543f89b5530e0ad7" title=" " alt="" coords="449,549,506,576"/>
+<area shape="rect" id="node23" href="$lib_2stdio_8c.html#a98631211a4a8aee62f572375d5b637be" title="Writes formatted output to the console." alt="" coords="451,499,503,525"/>
+<area shape="rect" id="node24" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="571,416,630,443"/>
+<area shape="rect" id="node25" href="$kernel_2console_8c.html#a69b6a57a329ae666df343a081a51e7a5" title="Acquires the console lock." alt="" coords="839,328,958,355"/>
+<area shape="rect" id="node31" href="$kernel_2console_8c.html#ace2f2e53045fdaa51273a6e45cc63044" title="Releases the console lock." alt="" coords="839,416,958,443"/>
+<area shape="rect" id="node34" href="$kernel_2console_8c.html#ada83ac3a119c57c68d54ab7a5c805de3" title="Helper function for vprintf()." alt="" coords="681,200,784,227"/>
+<area shape="rect" id="node26" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="1452,212,1543,239"/>
+<area shape="rect" id="node27" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="1057,321,1154,348"/>
+<area shape="rect" id="node28" href="$synch_8c.html#a3564cf7ad3b72bee0dd6cdd211ccd666" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="1245,415,1395,457"/>
+<area shape="rect" id="node29" href="$thread_8c.html#a0032becedd11c8a8e10a0a6955c90d66" title="Returns the running thread." alt="" coords="1443,364,1552,391"/>
+<area shape="rect" id="node30" href="$synch_8c.html#ae10ded72d3b93a832b7107566f09286c" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="1273,313,1367,340"/>
+<area shape="rect" id="node32" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="1057,423,1154,449"/>
+<area shape="rect" id="node33" href="$synch_8c.html#a6da4176e1c419bd4467b181c66b077da" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="1281,481,1359,508"/>
+<area shape="rect" id="node35" href="$kernel_2console_8c.html#a5d98987075545c56db87c51597a04bdd" title="Writes C to the vga display and serial port." alt="" coords="832,111,965,137"/>
+<area shape="rect" id="node36" href="$kernel_2console_8c.html#ac9311ca129f215c0c8c07cd095a72f2f" title="Returns true if the current thread has the console lock, false otherwise." alt="" coords="1013,158,1197,199"/>
+<area shape="rect" id="node37" href="$serial_8c.html#a07c75f3160eed07281583bfaf8eddc1b" title="Sends BYTE to the serial port." alt="" coords="1062,56,1149,83"/>
+<area shape="rect" id="node38" href="$vga_8c.html#a39f191e69844ad1aca267e74223651bd" title="Writes C to the VGA text display, interpreting control characters in the conventional ways." alt="" coords="1067,5,1143,32"/>
+<area shape="rect" id="node43" href="$lib_2user_2syscall_8c.html#a988616aeb494987bc645f602f820f3fc" title=" " alt="" coords="315,397,366,424"/>
+<area shape="rect" id="node46" href="$random_8c.html#af2a054338d7e0424f8cf6363610cd21b" title="Initializes or reinitializes the PRNG with the given SEED." alt="" coords="295,727,387,753"/>
+<area shape="rect" id="node47" href="$random_8c.html#ab02e0f9a7b14140cac015a2e93b45d8b" title="Swaps the bytes pointed to by A and B." alt="" coords="435,752,520,779"/>
+<area shape="rect" id="node50" href="$intq_8c.html#a1690435c2169d69bc5a17af78d67eb5f" title=" " alt="" coords="318,828,363,855"/>
+</map>

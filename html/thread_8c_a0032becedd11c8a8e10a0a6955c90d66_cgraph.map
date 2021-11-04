@@ -1,0 +1,6 @@
+<map id="thread_current" name="thread_current">
+<area shape="rect" id="node1" title="Returns the running thread." alt="" coords="5,31,115,57"/>
+<area shape="rect" id="node2" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="180,5,257,32"/>
+<area shape="rect" id="node3" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="163,56,275,83"/>
+<area shape="rect" id="node4" href="$vaddr_8h.html#a42d21e08e54a8ca6c174c731df74fd3e" title="Round down to nearest page boundary." alt="" coords="323,56,440,83"/>
+</map>

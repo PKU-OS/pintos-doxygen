@@ -1,0 +1,4 @@
+<map id="strtok_r" name="strtok_r">
+<area shape="rect" id="node1" title="Breaks a string into tokens separated by DELIMITERS." alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node2" href="$string_8c.html#a0b5ce5a348a2190d38480f0478405a6c" title="Finds and returns the first occurrence of C in STRING, or a null pointer if C does not appear in STRI..." alt="" coords="120,5,176,32"/>
+</map>

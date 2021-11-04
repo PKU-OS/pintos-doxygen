@@ -1,0 +1,4 @@
+<map id="bss_init" name="bss_init">
+<area shape="rect" id="node1" title="Clear the &quot;BSS&quot;, a segment that should be initialized to zeros." alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node2" href="$string_8c.html#a32f4138a368f78ed6d4339e679641261" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="120,5,189,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="condition" name="condition">
+<area shape="rect" id="node1" title="Condition variable." alt="" coords="5,201,81,228"/>
+<area shape="rect" id="node2" href="$structlist.html" title="List." alt="" coords="24,112,63,139"/>
+<area shape="rect" id="node3" href="$structlist__elem.html" title="Doubly linked list." alt="" coords="6,7,81,33"/>
+</map>

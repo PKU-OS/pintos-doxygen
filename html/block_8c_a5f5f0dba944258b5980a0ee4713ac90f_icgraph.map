@@ -1,0 +1,8 @@
+<map id="block_get_role" name="block_get_role">
+<area shape="rect" id="node1" title="Returns the block device fulfilling the given ROLE, or a null pointer if no block device has been ass..." alt="" coords="424,56,533,83"/>
+<area shape="rect" id="node2" href="$filesys_8c.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="139,5,223,32"/>
+<area shape="rect" id="node4" href="$fsutil_8c.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="Copies file FILE_NAME from the file system to the scratch device, in ustar format." alt="" coords="275,56,376,83"/>
+<area shape="rect" id="node6" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="277,107,374,133"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,31,88,57"/>
+<area shape="rect" id="node5" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,56,227,83"/>
+</map>

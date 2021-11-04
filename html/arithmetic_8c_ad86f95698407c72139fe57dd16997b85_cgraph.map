@@ -1,0 +1,6 @@
+<map id="umod64" name="umod64">
+<area shape="rect" id="node1" title="Divides unsigned 64&#45;bit N by unsigned 64&#45;bit D and returns the remainder." alt="" coords="5,31,76,57"/>
+<area shape="rect" id="node2" href="$arithmetic_8c.html#a2e68abcee74d3b3ebe3a47d309ae2af9" title="Divides unsigned 64&#45;bit N by unsigned 64&#45;bit D and returns the quotient." alt="" coords="124,31,185,57"/>
+<area shape="rect" id="node3" href="$arithmetic_8c.html#ac754351db970052cb41e93179a71d14f" title="On x86, division of one 64&#45;bit integer by another cannot be done with a single instruction or a short..." alt="" coords="233,5,276,32"/>
+<area shape="rect" id="node4" href="$arithmetic_8c.html#acb100fbecaa9c28f45ddff0fab3d008a" title="Returns the number of leading zero bits in X, which must be nonzero." alt="" coords="235,56,274,83"/>
+</map>

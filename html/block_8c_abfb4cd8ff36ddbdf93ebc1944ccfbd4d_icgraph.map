@@ -1,0 +1,47 @@
+<map id="block_name" name="block_name">
+<area shape="rect" id="node1" title="Returns BLOCK&#39;s name (e.g." alt="" coords="1887,791,1980,817"/>
+<area shape="rect" id="node2" href="$block_8c.html#a987bd0fa2cc9d2510f3756532f120d25" title="Verifies that SECTOR is a valid offset within BLOCK." alt="" coords="1739,537,1839,564"/>
+<area shape="rect" id="node37" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="1392,840,1532,867"/>
+<area shape="rect" id="node38" href="$partition_8c.html#ae1af155dafc1e46f1725d8061189421a" title="Scans BLOCK for partitions of interest to Pintos." alt="" coords="1237,765,1342,792"/>
+<area shape="rect" id="node45" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="1580,816,1691,843"/>
+<area shape="rect" id="node3" href="$block_8c.html#a8c08b3ab03d5cdb52856bab0aafe7006" title="Reads sector SECTOR from BLOCK into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="1592,537,1679,564"/>
+<area shape="rect" id="node41" href="$block_8c.html#ab7e44f7861385a5c4630d899a469f9d4" title="Write sector SECTOR to BLOCK from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="1417,208,1507,235"/>
+<area shape="rect" id="node4" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="753,412,850,439"/>
+<area shape="rect" id="node7" href="$inode_8c.html#a7adc21afc633b56d25a229ce0087c4a0" title="Reads an inode from SECTOR and returns a ‘struct inode’ that contains it." alt="" coords="1243,360,1335,387"/>
+<area shape="rect" id="node26" href="$inode_8c.html#a31fcd756c686b818d56067b4460bfdb9" title="Reads SIZE bytes from INODE into BUFFER, starting at position OFFSET." alt="" coords="1409,512,1515,539"/>
+<area shape="rect" id="node33" href="$inode_8c.html#a09402d2c8d33dc00b2557daa27d944ee" title="Writes SIZE bytes from BUFFER into INODE, starting at OFFSET." alt="" coords="1235,563,1344,589"/>
+<area shape="rect" id="node36" href="$partition_8c.html#a3bf0f39484d36b71f958107c23671e36" title="Reads sector SECTOR from partition P into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="1410,461,1514,488"/>
+<area shape="rect" id="node5" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,387,227,413"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,387,88,413"/>
+<area shape="rect" id="node8" href="$directory_8c.html#a782062143b05a6f32d11457cfd6259f6" title="Searches DIR for a file with the given NAME and returns true if one exists, false otherwise." alt="" coords="1083,360,1167,387"/>
+<area shape="rect" id="node16" href="$directory_8c.html#afdea7fe972a97776e832c4324b0c4b9d" title="Opens the root directory and returns a directory for it." alt="" coords="1073,411,1177,437"/>
+<area shape="rect" id="node21" href="$directory_8c.html#ae277e450f2d6d436a61adccc0ad5ce23" title="Removes any entry for NAME in DIR." alt="" coords="1081,461,1170,488"/>
+<area shape="rect" id="node22" href="$free-map_8c.html#a928c69cba9ea179d6fe581acd970c512" title="Creates a new free map file on disk and writes the free map to it." alt="" coords="1064,56,1187,83"/>
+<area shape="rect" id="node25" href="$free-map_8c.html#a82ae69d4b7534829d5c1672231c62370" title="Opens the free map file and reads it from disk." alt="" coords="900,56,1016,83"/>
+<area shape="rect" id="node9" href="$filesys_8c.html#a79d6e6b4a6c2295fba2322000c7c19fd" title="Opens the file with the given NAME." alt="" coords="910,360,1006,387"/>
+<area shape="rect" id="node10" href="$fsutil_8c.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="Copies file FILE_NAME from the file system to the scratch device, in ustar format." alt="" coords="751,195,852,221"/>
+<area shape="rect" id="node11" href="$fsutil_8c.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="764,360,839,387"/>
+<area shape="rect" id="node12" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="778,284,825,311"/>
+<area shape="rect" id="node13" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="583,287,686,313"/>
+<area shape="rect" id="node14" href="$process_8c.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="396,293,519,320"/>
+<area shape="rect" id="node15" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="275,305,348,332"/>
+<area shape="rect" id="node17" href="$filesys_8c.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="906,461,1010,488"/>
+<area shape="rect" id="node18" href="$filesys_8c.html#ac536ffc3c10934a7f80e43e98b7c75ae" title="Deletes the file named NAME." alt="" coords="903,512,1013,539"/>
+<area shape="rect" id="node20" href="$fsutil_8c.html#a50cc451070af8d6fd949d2975b5f588d" title="List files in the root directory." alt="" coords="925,613,991,640"/>
+<area shape="rect" id="node19" href="$fsutil_8c.html#abd1a295d2e6c91da47f137c863a26b97" title="Deletes file ARGV[1]." alt="" coords="599,467,671,493"/>
+<area shape="rect" id="node23" href="$filesys_8c.html#a2710836971ed586925cb1c55850bf955" title="Formats the file system." alt="" coords="917,5,999,32"/>
+<area shape="rect" id="node24" href="$filesys_8c.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="759,56,843,83"/>
+<area shape="rect" id="node27" href="$directory_8c.html#a86380e077145f4f4ca42e0bd413c79fd" title="Adds a file named NAME to DIR, which must not already contain a file by that name." alt="" coords="1092,512,1159,539"/>
+<area shape="rect" id="node28" href="$directory_8c.html#ae9ec2107e448111aca8951c2f7bfa61b" title="Reads the next directory entry in DIR and stores the name in NAME." alt="" coords="1247,664,1332,691"/>
+<area shape="rect" id="node29" href="$file_8c.html#aa970e0e3d037e457750745798328db97" title="Reads SIZE bytes from FILE into BUFFER, starting at the file&#39;s current position." alt="" coords="1089,208,1162,235"/>
+<area shape="rect" id="node31" href="$file_8c.html#a9f62f31208f5a024b47fc3ac90ed0b9c" title="Reads SIZE bytes from FILE into BUFFER, starting at offset FILE_OFS in the file." alt="" coords="1243,411,1335,437"/>
+<area shape="rect" id="node32" href="$directory_8c.html#ab2c71a2a1a0ffa3c618792babf4fc8b9" title="Searches DIR for a file with the given NAME." alt="" coords="1259,461,1320,488"/>
+<area shape="rect" id="node30" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="905,208,1011,235"/>
+<area shape="rect" id="node34" href="$file_8c.html#a5c3629e8008d2ad73290be83f84d27eb" title="Writes SIZE bytes from BUFFER into FILE, starting at the file&#39;s current position." alt="" coords="921,563,995,589"/>
+<area shape="rect" id="node35" href="$file_8c.html#a066213728ed4ad6314a980f50c2c93d7" title="Writes SIZE bytes from BUFFER into FILE, starting at offset FILE_OFS in the file." alt="" coords="1079,613,1172,640"/>
+<area shape="rect" id="node39" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="567,764,703,791"/>
+<area shape="rect" id="node40" href="$ide_8c.html#a5e8e1409e0675bdd93040403c52dd660" title="Initialize the disk subsystem and detect disks." alt="" coords="425,663,489,689"/>
+<area shape="rect" id="node42" href="$inode_8c.html#aa867b845d1fde30169c685397e05ac3f" title="Initializes an inode with LENGTH bytes of data and writes the new inode to sector SECTOR on the file ..." alt="" coords="1240,107,1339,133"/>
+<area shape="rect" id="node44" href="$partition_8c.html#a0804c8e9bd1b9f49d0a44c022574445b" title="Write sector SECTOR to partition P from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="1237,56,1342,83"/>
+<area shape="rect" id="node43" href="$directory_8c.html#ab3951213f266ce0e0404203a35fefe8f" title="Creates a directory with space for ENTRY_CNT entries in the given SECTOR." alt="" coords="1085,5,1166,32"/>
+</map>

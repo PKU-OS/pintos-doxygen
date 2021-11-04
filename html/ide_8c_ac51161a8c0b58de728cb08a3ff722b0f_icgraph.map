@@ -1,0 +1,10 @@
+<map id="wait_until_idle" name="wait_until_idle">
+<area shape="rect" id="node1" title="Low&#45;level ATA primitives." alt="" coords="625,31,731,57"/>
+<area shape="rect" id="node2" href="$ide_8c.html#a5d8393ec752f120abb30d97b14a69600" title="Select disk D in its channel, as select_device(), but wait for the channel to become idle before and ..." alt="" coords="444,31,577,57"/>
+<area shape="rect" id="node3" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="260,5,396,32"/>
+<area shape="rect" id="node6" href="$ide_8c.html#ad7c31783f9f455b20c35d43f46ee03d8" title="Selects device D, waiting for it to become ready, and then writes SEC_NO to the disk&#39;s sector selecti..." alt="" coords="278,56,378,83"/>
+<area shape="rect" id="node4" href="$ide_8c.html#a5e8e1409e0675bdd93040403c52dd660" title="Initialize the disk subsystem and detect disks." alt="" coords="142,5,206,32"/>
+<area shape="rect" id="node5" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node7" href="$ide_8c.html#afc9cbaf0892e023867624dca21f5bfa2" title="Reads sector SEC_NO from disk D into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="137,56,211,83"/>
+<area shape="rect" id="node8" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="136,107,212,133"/>
+</map>

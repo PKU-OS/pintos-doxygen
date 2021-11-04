@@ -1,0 +1,5 @@
+<map id="hash_clear" name="hash_clear">
+<area shape="rect" id="node1" title="Removes all the elements from H." alt="" coords="156,31,243,57"/>
+<area shape="rect" id="node2" href="$hash_8c.html#ac69fc1bec8463507c3967d0f77653125" title="Destroys hash table H." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node3" href="$hash_8c.html#a9865a9a0b79392bf398700fedf47a44a" title="Initializes hash table H to compute hash values using HASH and compare hash elements using LESS,..." alt="" coords="19,56,95,83"/>
+</map>

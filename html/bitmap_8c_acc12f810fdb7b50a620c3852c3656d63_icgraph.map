@@ -1,0 +1,52 @@
+<map id="bit_mask" name="bit_mask">
+<area shape="rect" id="node1" title="Returns an elem_type where only the bit corresponding to BIT_IDX is turned on." alt="" coords="1881,296,1957,323"/>
+<area shape="rect" id="node2" href="$bitmap_8c.html#a21601c0b947f0e5c796bb7ebac31a5e7" title="Atomically toggles the bit numbered IDX in B; that is, if it is true, makes it false,..." alt="" coords="1741,220,1827,247"/>
+<area shape="rect" id="node3" href="$bitmap_8c.html#adb8912537854d4a2dcb1f35940a7134b" title="Atomically sets the bit numbered BIT_IDX in B to true." alt="" coords="1735,271,1833,297"/>
+<area shape="rect" id="node43" href="$bitmap_8c.html#a5bb6be898ca442c95e725be80c2369a6" title="Atomically sets the bit numbered BIT_IDX in B to false." alt="" coords="1735,321,1833,348"/>
+<area shape="rect" id="node44" href="$bitmap_8c.html#ab8d6660c5e30dab9cecef1240c7423d9" title="Returns the value of the bit numbered IDX in B." alt="" coords="1739,397,1829,424"/>
+<area shape="rect" id="node4" href="$bitmap_8c.html#a766a7941acc1371fb82ed4f70a1ecf37" title="Setting and testing single bits." alt="" coords="1584,296,1671,323"/>
+<area shape="rect" id="node16" href="$free-map_8c.html#a5fa440f72db2c255d095ecf34aff9a7e" title="Initializes the free map." alt="" coords="291,56,394,83"/>
+<area shape="rect" id="node5" href="$bitmap_8c.html#a7b2eaaf4ee3c0f7794b4e5293f3b9760" title="Sets the CNT bits starting at START in B to VALUE." alt="" coords="1380,296,1520,323"/>
+<area shape="rect" id="node6" href="$bitmap_8c.html#a9ba55f2ff408378a1127282264353651" title="Finds the first group of CNT consecutive bits in B at or after START that are all set to VALUE,..." alt="" coords="1180,347,1332,373"/>
+<area shape="rect" id="node7" href="$free-map_8c.html#a9cce17fe18443be5a61dbdf40c10e03a" title="Allocates CNT consecutive sectors from the free map and stores the first into *SECTORP." alt="" coords="801,245,933,272"/>
+<area shape="rect" id="node29" href="$bitmap_8c.html#ad1c4bbb333372b166e232cf271236c90" title="Setting and testing multiple bits." alt="" coords="1202,93,1310,120"/>
+<area shape="rect" id="node32" href="$free-map_8c.html#a65586c8713124a199b6db7397c1aba6f" title="Makes CNT sectors starting at SECTOR available for use." alt="" coords="992,393,1121,420"/>
+<area shape="rect" id="node38" href="$palloc_8c.html#af4c2af0e0bdc81d1ea21354c4234b20e" title="Frees the PAGE_CNT pages starting at PAGES." alt="" coords="1186,511,1326,537"/>
+<area shape="rect" id="node13" href="$palloc_8c.html#a303ef0c7222e4b461dc79f8a90f31bea" title="Obtains and returns a group of PAGE_CNT contiguous free pages." alt="" coords="989,676,1125,703"/>
+<area shape="rect" id="node8" href="$filesys_8c.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="291,323,395,349"/>
+<area shape="rect" id="node10" href="$inode_8c.html#aa867b845d1fde30169c685397e05ac3f" title="Initializes an inode with LENGTH bytes of data and writes the new inode to sector SECTOR on the file ..." alt="" coords="647,245,746,272"/>
+<area shape="rect" id="node9" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="136,715,233,741"/>
+<area shape="rect" id="node11" href="$directory_8c.html#ab3951213f266ce0e0404203a35fefe8f" title="Creates a directory with space for ENTRY_CNT entries in the given SECTOR." alt="" coords="481,221,563,248"/>
+<area shape="rect" id="node12" href="$free-map_8c.html#a928c69cba9ea179d6fe581acd970c512" title="Creates a new free map file on disk and writes the free map to it." alt="" coords="281,399,404,425"/>
+<area shape="rect" id="node14" href="$malloc_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="667,853,727,880"/>
+<area shape="rect" id="node27" href="$palloc_8c.html#a0c66d7fdb0a9c8da247421261b5ca188" title="Obtains a single free page and returns its kernel virtual address." alt="" coords="807,853,927,880"/>
+<area shape="rect" id="node15" href="$bitmap_8c.html#af3d1070908c2f73d4b18741f7fb5695e" title="Creation and destruction." alt="" coords="469,120,575,147"/>
+<area shape="rect" id="node19" href="$fsutil_8c.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="Copies file FILE_NAME from the file system to the scratch device, in ustar format." alt="" coords="292,1056,393,1083"/>
+<area shape="rect" id="node20" href="$inode_8c.html#a31fcd756c686b818d56067b4460bfdb9" title="Reads SIZE bytes from INODE into BUFFER, starting at position OFFSET." alt="" coords="469,677,575,704"/>
+<area shape="rect" id="node21" href="$inode_8c.html#a09402d2c8d33dc00b2557daa27d944ee" title="Writes SIZE bytes from BUFFER into INODE, starting at OFFSET." alt="" coords="467,576,577,603"/>
+<area shape="rect" id="node23" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="452,752,592,779"/>
+<area shape="rect" id="node24" href="$malloc_8c.html#a729621e4209745ef6edbe31f71a2a8eb" title="Attempts to resize OLD_BLOCK to NEW_SIZE bytes, possibly moving it in the process." alt="" coords="491,904,553,931"/>
+<area shape="rect" id="node25" href="$hash_8c.html#afc76c6b6a33bf5fac77a82491e17dbf0" title="Changes the number of buckets in hash table H to match the ideal." alt="" coords="491,955,553,981"/>
+<area shape="rect" id="node26" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="481,1005,563,1032"/>
+<area shape="rect" id="node17" href="$filesys_8c.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="143,56,227,83"/>
+<area shape="rect" id="node18" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,56,88,83"/>
+<area shape="rect" id="node22" href="$directory_8c.html#ae277e450f2d6d436a61adccc0ad5ce23" title="Removes any entry for NAME in DIR." alt="" coords="298,525,387,552"/>
+<area shape="rect" id="node28" href="$fsutil_8c.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="305,1157,380,1184"/>
+<area shape="rect" id="node30" href="$bitmap_8c.html#af1baf5aebcbd8ded4f5a9c6195b4cc64" title="Creates and returns a bitmap with BIT_CNT bits in the BLOCK_SIZE bytes of storage preallocated at BLO..." alt="" coords="981,43,1132,69"/>
+<area shape="rect" id="node31" href="$palloc_8c.html#ae93da2ef876a9e957a6245fa2bd68a1f" title="Initializes pool P as starting at START and ending at END, naming it NAME for debugging purposes." alt="" coords="831,43,903,69"/>
+<area shape="rect" id="node33" href="$inode_8c.html#a74e1a19b5bcae248617541fe6f2f77c5" title="Closes INODE and writes it to disk." alt="" coords="650,448,743,475"/>
+<area shape="rect" id="node34" href="$directory_8c.html#a92d246b6a292843fdfd7e3e1d2b29701" title="Destroys DIR and frees associated resources." alt="" coords="484,373,560,400"/>
+<area shape="rect" id="node35" href="$directory_8c.html#a12c77ad2315eb1079f7914b1b1b27ce2" title="Opens and returns the directory for the given INODE, of which it takes ownership." alt="" coords="485,525,559,552"/>
+<area shape="rect" id="node36" href="$file_8c.html#a4d12e9de7ab756bef5396c7b37698c9a" title="Closes FILE." alt="" coords="483,1107,561,1133"/>
+<area shape="rect" id="node37" href="$file_8c.html#a57cca369d13720dba680d09f76f96c70" title="Opens a file for the given INODE, of which it takes ownership, and returns the new file." alt="" coords="484,424,560,451"/>
+<area shape="rect" id="node39" href="$malloc_8c.html#a9f850d0608418aea291e4c0fdab93826" title="Frees block P, which must have been previously allocated with malloc(), calloc(), or realloc()." alt="" coords="845,651,890,677"/>
+<area shape="rect" id="node42" href="$palloc_8c.html#ad3fe56f7c611216596e7565fb8521409" title="Frees the page at PAGE." alt="" coords="995,727,1119,753"/>
+<area shape="rect" id="node40" href="$bitmap_8c.html#adacf8862f49d7e7ceb1ba2368dd76698" title="Destroys bitmap B, freeing its storage." alt="" coords="640,600,753,627"/>
+<area shape="rect" id="node41" href="$hash_8c.html#ac69fc1bec8463507c3967d0f77653125" title="Destroys hash table H." alt="" coords="645,651,748,677"/>
+<area shape="rect" id="node45" href="$bitmap_8c.html#a90f5f9e5e7afbd943d0c6c33fc0d8557" title="Returns true if any bits in B between START and START + CNT, exclusive, are set to VALUE,..." alt="" coords="1568,397,1687,424"/>
+<area shape="rect" id="node50" href="$bitmap_8c.html#a8aa9de227201a14d2eb02418c2938133" title="Returns the number of bits in B between START and START + CNT, exclusive, that are set to VALUE." alt="" coords="1576,448,1679,475"/>
+<area shape="rect" id="node46" href="$bitmap_8c.html#ab8910020ce78e389457c0607990d04d3" title="Returns true if every bit in B between START and START + CNT, exclusive, is set to true,..." alt="" coords="1409,448,1491,475"/>
+<area shape="rect" id="node47" href="$bitmap_8c.html#aa2604bae9ecc162ca3bf6d29c88a396a" title="Returns true if any bits in B between START and START + CNT, exclusive, are set to true,..." alt="" coords="1405,397,1495,424"/>
+<area shape="rect" id="node48" href="$bitmap_8c.html#a28c233109c8d03da7ad9293ef1d4ff6d" title="Returns true if no bits in B between START and START + CNT, exclusive, are set to true,..." alt="" coords="1401,499,1499,525"/>
+<area shape="rect" id="node49" href="$bitmap_8c.html#a88a9127abe8322926d25de46140b778a" title="Finding set or unset bits." alt="" coords="1401,347,1499,373"/>
+</map>

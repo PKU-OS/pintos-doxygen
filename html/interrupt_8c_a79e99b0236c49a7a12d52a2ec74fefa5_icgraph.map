@@ -1,0 +1,13 @@
+<map id="make_trap_gate" name="make_trap_gate">
+<area shape="rect" id="node1" title="Creates a trap gate that invokes FUNCTION with the given DPL." alt="" coords="639,157,757,184"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#a7e7d2edfe1ec7f51b54704080de2f4ca" title="Registers interrupt VEC_NO to invoke HANDLER with descriptor privilege level DPL." alt="" coords="472,157,591,184"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#a38cd217e72ddb3f58db591a061c99691" title="Registers external interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="307,107,424,133"/>
+<area shape="rect" id="node9" href="$interrupt_8c.html#a30707611d4360096acf72b3215bdea62" title="Registers internal interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="309,208,422,235"/>
+<area shape="rect" id="node4" href="$ide_8c.html#a5e8e1409e0675bdd93040403c52dd660" title="Initialize the disk subsystem and detect disks." alt="" coords="165,5,229,32"/>
+<area shape="rect" id="node6" href="$kbd_8c.html#a2d4a794658f2ee47f466766d89c6e8e8" title="Initializes the keyboard." alt="" coords="163,56,231,83"/>
+<area shape="rect" id="node7" href="$serial_8c.html#a54e99a9877b7ed2a6be751fc43905978" title="Initializes the serial port device for queued interrupt&#45;driven I/O." alt="" coords="136,107,259,133"/>
+<area shape="rect" id="node8" href="$timer_8c.html#a7b8ab79df77b57475a5494f5f81c3bd9" title="Sets up the timer to interrupt TIMER_FREQ times per second, and registers the corresponding interrupt..." alt="" coords="159,157,235,184"/>
+<area shape="rect" id="node5" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,132,88,159"/>
+<area shape="rect" id="node10" href="$exception_8c.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="145,208,249,235"/>
+<area shape="rect" id="node11" href="$userprog_2syscall_8c.html#a797876702ac4b3a53fa69839f02642f4" title="userprog/syscall.h" alt="" coords="154,259,241,285"/>
+</map>

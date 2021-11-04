@@ -1,0 +1,7 @@
+<map id="shutdown_reboot" name="shutdown_reboot">
+<area shape="rect" id="node1" title="Reboots the machine via the keyboard controller." alt="" coords="333,31,457,57"/>
+<area shape="rect" id="node2" href="$kbd_8c.html#a342c6a1eb911b8e2a65a5dfba072492b" title=" " alt="" coords="152,5,285,32"/>
+<area shape="rect" id="node3" href="$shutdown_8c.html#a1c9d5e29ad8899afe0c34571ddee18f9" title="Shuts down the machine in the way configured by shutdown_configure()." alt="" coords="179,56,258,83"/>
+<area shape="rect" id="node4" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node5" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="13,81,96,108"/>
+</map>

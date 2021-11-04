@@ -1,0 +1,52 @@
+<map id="load_segment" name="load_segment">
+<area shape="rect" id="node1" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="5,867,111,893"/>
+<area shape="rect" id="node2" href="$file_8c.html#aa970e0e3d037e457750745798328db97" title="Reads SIZE bytes from FILE into BUFFER, starting at the file&#39;s current position." alt="" coords="169,321,242,348"/>
+<area shape="rect" id="node10" href="$vaddr_8h.html#ac12acb882dfd1a70e6c8f69935dc3747" title="Offset within a page." alt="" coords="1054,968,1117,995"/>
+<area shape="rect" id="node18" href="$string_8c.html#a32f4138a368f78ed6d4339e679641261" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="1051,423,1120,449"/>
+<area shape="rect" id="node24" href="$palloc_8c.html#ad3fe56f7c611216596e7565fb8521409" title="Frees the page at PAGE." alt="" coords="647,5,771,32"/>
+<area shape="rect" id="node32" href="$palloc_8c.html#a0c66d7fdb0a9c8da247421261b5ca188" title="Obtains a single free page and returns its kernel virtual address." alt="" coords="649,867,769,893"/>
+<area shape="rect" id="node34" href="$file_8c.html#a123a2f99235d86d6accb4dff5568680a" title="Sets the current position in FILE to NEW_POS bytes from the start of the file." alt="" coords="168,1171,243,1197"/>
+<area shape="rect" id="node35" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="159,1120,252,1147"/>
+<area shape="rect" id="node3" href="$inode_8c.html#a31fcd756c686b818d56067b4460bfdb9" title="Reads SIZE bytes from INODE into BUFFER, starting at position OFFSET." alt="" coords="311,233,418,260"/>
+<area shape="rect" id="node4" href="$block_8c.html#a8c08b3ab03d5cdb52856bab0aafe7006" title="Reads sector SECTOR from BLOCK into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="493,69,580,96"/>
+<area shape="rect" id="node6" href="$inode_8c.html#a9b48abdaf996c82819f49d6d8fc4c224" title="Returns the block device sector that contains byte offset POS within INODE." alt="" coords="482,183,591,209"/>
+<area shape="rect" id="node7" href="$malloc_8c.html#a9f850d0608418aea291e4c0fdab93826" title="Frees block P, which must have been previously allocated with malloc(), calloc(), or realloc()." alt="" coords="514,284,559,311"/>
+<area shape="rect" id="node25" href="$inode_8c.html#a67214eb44fb24ef254fca76f9a63fd6d" title="Returns the length, in bytes, of INODE&#39;s data." alt="" coords="487,233,586,260"/>
+<area shape="rect" id="node26" href="$malloc_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="507,639,567,665"/>
+<area shape="rect" id="node33" href="$string_8c.html#a75301dc67774ade574b3b3205ee4f39e" title="Copies SIZE bytes from SRC to DST, which must not overlap." alt="" coords="501,132,573,159"/>
+<area shape="rect" id="node5" href="$block_8c.html#a987bd0fa2cc9d2510f3756532f120d25" title="Verifies that SECTOR is a valid offset within BLOCK." alt="" coords="659,56,759,83"/>
+<area shape="rect" id="node8" href="$malloc_8c.html#a9c2a4cff5e437e5be52e507be30eea49" title="Returns the (IDX &#45; 1)&#39;th block within arena A." alt="" coords="652,411,765,437"/>
+<area shape="rect" id="node9" href="$malloc_8c.html#a5db3c69e2b5fc7fb13fa1f663df2bf03" title="Returns the arena that block B is inside." alt="" coords="652,563,765,589"/>
+<area shape="rect" id="node11" href="$lib_2kernel_2list_8c.html#a2b0911a5635312de560f8d2a744956ad" title="Inserts ELEM at the beginning of LIST, so that it becomes the front in LIST." alt="" coords="654,107,763,133"/>
+<area shape="rect" id="node12" href="$lib_2kernel_2list_8c.html#a20dc7b49b9631d32e71294ea9cf38e78" title="Removes ELEM from its list and returns the element that followed it." alt="" coords="846,512,937,539"/>
+<area shape="rect" id="node13" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="1037,765,1134,792"/>
+<area shape="rect" id="node17" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="1037,613,1134,640"/>
+<area shape="rect" id="node19" href="$palloc_8c.html#af4c2af0e0bdc81d1ea21354c4234b20e" title="Frees the PAGE_CNT pages starting at PAGES." alt="" coords="821,157,961,184"/>
+<area shape="rect" id="node14" href="$thread_8c.html#a0032becedd11c8a8e10a0a6955c90d66" title="Returns the running thread." alt="" coords="1225,1171,1334,1197"/>
+<area shape="rect" id="node15" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="1415,1145,1492,1172"/>
+<area shape="rect" id="node16" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="1397,1196,1509,1223"/>
+<area shape="rect" id="node20" href="$bitmap_8c.html#ab8910020ce78e389457c0607990d04d3" title="Returns true if every bit in B between START and START + CNT, exclusive, is set to true,..." alt="" coords="1044,107,1127,133"/>
+<area shape="rect" id="node21" href="$bitmap_8c.html#a7b2eaaf4ee3c0f7794b4e5293f3b9760" title="Sets the CNT bits starting at START in B to VALUE." alt="" coords="1209,436,1349,463"/>
+<area shape="rect" id="node22" href="$palloc_8c.html#a2adf802e51d008838946d621cb4e8fb2" title="Returns true if PAGE was allocated from POOL, false otherwise." alt="" coords="1026,157,1145,184"/>
+<area shape="rect" id="node23" href="$vaddr_8h.html#a1efae7b168a7e2234c0e4022d889bdc8" title="Virtual page number." alt="" coords="1250,183,1309,209"/>
+<area shape="rect" id="node27" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="667,664,750,691"/>
+<area shape="rect" id="node28" href="$lib_2kernel_2list_8c.html#a25d199933dd83abc9cecfe452bf39837" title="Removes the front element from LIST and returns it." alt="" coords="657,512,760,539"/>
+<area shape="rect" id="node29" href="$lib_2kernel_2list_8c.html#a997639d9e16bed1f4a450c0bdf7959ba" title="Inserts ELEM at the end of LIST, so that it becomes the back in LIST." alt="" coords="653,765,764,792"/>
+<area shape="rect" id="node30" href="$palloc_8c.html#a303ef0c7222e4b461dc79f8a90f31bea" title="Obtains and returns a group of PAGE_CNT contiguous free pages." alt="" coords="823,664,959,691"/>
+<area shape="rect" id="node31" href="$bitmap_8c.html#a9ba55f2ff408378a1127282264353651" title="Finds the first group of CNT consecutive bits in B at or after START that are all set to VALUE,..." alt="" coords="1009,664,1161,691"/>
+<area shape="rect" id="node36" href="$pagedir_8c.html#a8093fa1c0a54bdc624cb6fb619a86746" title="Looks up the physical address that corresponds to user virtual address UADDR in PD." alt="" coords="300,1120,429,1147"/>
+<area shape="rect" id="node48" href="$pagedir_8c.html#a87fb1ae04e5465c21f1cf3d07d85b199" title="Adds a mapping in page directory PD from user virtual page UPAGE to the physical frame identified by ..." alt="" coords="300,1348,429,1375"/>
+<area shape="rect" id="node37" href="$vaddr_8h.html#a702cb4149b88a734c4a30bdfaeeb10d0" title="Returns true if VADDR is a user virtual address." alt="" coords="656,1323,761,1349"/>
+<area shape="rect" id="node38" href="$pagedir_8c.html#a309fc79834d80e78b36294f270927744" title="Returns the address of the page table entry for virtual address VADDR in page directory PD." alt="" coords="487,1171,586,1197"/>
+<area shape="rect" id="node47" href="$pte_8h.html#a74bfe6c82c7b9fe6c3d8a95bf720615c" title="Returns a pointer to the page that page table entry PTE points to." alt="" coords="485,1069,589,1096"/>
+<area shape="rect" id="node39" href="$lib_2user_2syscall_8c.html#a352dd80fdc4fdb4689aac9555fe28202" title=" " alt="" coords="679,1120,738,1147"/>
+<area shape="rect" id="node40" href="$pte_8h.html#ab6096b535a162bafc551af35b9ec411b" title="Obtains page directory index from a virtual address." alt="" coords="679,1171,738,1197"/>
+<area shape="rect" id="node41" href="$pte_8h.html#a9004800442e14f214a2c63643fbaffd4" title="Returns a PDE that points to page table PT." alt="" coords="664,1272,753,1299"/>
+<area shape="rect" id="node44" href="$pte_8h.html#af261409ae0b2376eb84f0141af6269df" title="Returns a pointer to the page table that page directory entry PDE, which must &quot;present&quot;,..." alt="" coords="664,1069,753,1096"/>
+<area shape="rect" id="node46" href="$pte_8h.html#a5f5188c3118999771bd6e0da658fbff8" title="Obtains page table index from a virtual address." alt="" coords="681,1221,737,1248"/>
+<area shape="rect" id="node42" href="$vaddr_8h.html#a0f6ff2f4a18892d83d6e1c1a3c2d9f9b" title="Returns physical address at which kernel virtual address VADDR is mapped." alt="" coords="868,1373,915,1400"/>
+<area shape="rect" id="node43" href="$vaddr_8h.html#ad3a451f5e710dfb7831cb7be9a1e04f5" title="Returns true if VADDR is a kernel virtual address." alt="" coords="1027,1373,1143,1400"/>
+<area shape="rect" id="node45" href="$vaddr_8h.html#ac8ca05e66698904ad6a0c6ec2ad95e1c" title="Returns kernel virtual address at which physical address PADDR is mapped." alt="" coords="868,1044,915,1071"/>
+<area shape="rect" id="node49" href="$pte_8h.html#a0783b95ac9d016f2faf796a22751cc9c" title="Returns a PTE that points to PAGE." alt="" coords="477,1373,596,1400"/>
+<area shape="rect" id="node50" href="$pte_8h.html#abf0431b823576ecff35456407f0bd987" title="Returns a PTE that points to PAGE." alt="" coords="644,1373,773,1400"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="make_idtr_operand" name="make_idtr_operand">
+<area shape="rect" id="node1" title="Returns a descriptor that yields the given LIMIT and BASE when used as an operand for the LIDT instru..." alt="" coords="249,5,387,32"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#ab3e596a633d94203771c1a2b10211d90" title="Initializes the interrupt system." alt="" coords="136,5,201,32"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,88,32"/>
+</map>

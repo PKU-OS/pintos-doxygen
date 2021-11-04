@@ -1,0 +1,52 @@
+<map id="lock_init" name="lock_init">
+<area shape="rect" id="node1" title="Initializes LOCK." alt="" coords="1679,1689,1749,1716"/>
+<area shape="rect" id="node2" href="$kernel_2console_8c.html#acadd2a5d99d952e55a4580dbc8f8739d" title="Enable console locking." alt="" coords="1119,1765,1211,1792"/>
+<area shape="rect" id="node4" href="$ide_8c.html#a5e8e1409e0675bdd93040403c52dd660" title="Initialize the disk subsystem and detect disks." alt="" coords="149,1537,213,1564"/>
+<area shape="rect" id="node5" href="$palloc_8c.html#ae93da2ef876a9e957a6245fa2bd68a1f" title="Initializes pool P as starting at START and ending at END, naming it NAME for debugging purposes." alt="" coords="505,1613,577,1640"/>
+<area shape="rect" id="node7" href="$intq_8c.html#a74912dc0f8bf3b5cfeecab5630ed3f89" title="Initializes interrupt queue Q." alt="" coords="1555,1563,1623,1589"/>
+<area shape="rect" id="node49" href="$malloc_8c.html#a1be0594bb47cfcf2e4616c3baa3b9e13" title="Initializes the malloc() descriptors." alt="" coords="1415,1715,1500,1741"/>
+<area shape="rect" id="node50" href="$alarm-wait_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="1548,1816,1631,1843"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,1613,88,1640"/>
+<area shape="rect" id="node6" href="$palloc_8c.html#acc2c206763e5de4e4414fda821ca6db8" title="Initializes the page allocator." alt="" coords="140,1613,221,1640"/>
+<area shape="rect" id="node8" href="$serial_8c.html#aa1fb82a5be4690023966ea841c88a624" title="Initializes the serial port device for polling mode." alt="" coords="1424,245,1491,272"/>
+<area shape="rect" id="node48" href="$input_8c.html#a002df33f6298c53d5ab3892e473bcbde" title="Initializes the input buffer." alt="" coords="1285,1563,1361,1589"/>
+<area shape="rect" id="node9" href="$serial_8c.html#a54e99a9877b7ed2a6be751fc43905978" title="Initializes the serial port device for queued interrupt&#45;driven I/O." alt="" coords="777,37,900,64"/>
+<area shape="rect" id="node10" href="$serial_8c.html#a07c75f3160eed07281583bfaf8eddc1b" title="Sends BYTE to the serial port." alt="" coords="1280,245,1367,272"/>
+<area shape="rect" id="node11" href="$kernel_2console_8c.html#a5d98987075545c56db87c51597a04bdd" title="Writes C to the vga display and serial port." alt="" coords="1099,245,1232,272"/>
+<area shape="rect" id="node12" href="$kernel_2console_8c.html#a6912abfdc7e2b2345da944f82cb8305b" title="Writes the N characters in BUFFER to the console." alt="" coords="970,321,1029,348"/>
+<area shape="rect" id="node13" href="$kernel_2console_8c.html#af4de2514b7778805db3815e8dd6cf09a" title="Writes C to the vga display and serial port." alt="" coords="663,93,729,120"/>
+<area shape="rect" id="node21" href="$kernel_2console_8c.html#ad41876f99f190c7488e64ef39c50a23f" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="976,271,1023,297"/>
+<area shape="rect" id="node22" href="$kernel_2console_8c.html#ada83ac3a119c57c68d54ab7a5c805de3" title="Helper function for vprintf()." alt="" coords="948,220,1051,247"/>
+<area shape="rect" id="node14" href="$tests_8c.html#a7380daad7085b08d0e037abc3136dccd" title="Prints failure message FORMAT as if with printf(), prefixing the output by the name of the test and F..." alt="" coords="521,144,560,171"/>
+<area shape="rect" id="node15" href="$tests_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title="Prints FORMAT as if with printf(), prefixing the output by the name of the test and following it with..." alt="" coords="517,195,564,221"/>
+<area shape="rect" id="node18" href="$user_2console_8c.html#ad41876f99f190c7488e64ef39c50a23f" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="517,93,564,120"/>
+<area shape="rect" id="node19" href="$shell_8c.html#ae50f2386b53b64d6827fe6e35958898a" title="Reads a line of input from the user into LINE, which has room for SIZE bytes." alt="" coords="307,132,385,159"/>
+<area shape="rect" id="node16" href="$tests_8c.html#a31e43c3ff7a147fd2a262e4f78ea07b4" title="Runs the test named NAME." alt="" coords="311,271,381,297"/>
+<area shape="rect" id="node17" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="144,372,217,399"/>
+<area shape="rect" id="node20" href="$shell_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="155,132,206,159"/>
+<area shape="rect" id="node23" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="809,220,868,247"/>
+<area shape="rect" id="node24" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="297,600,395,627"/>
+<area shape="rect" id="node25" href="$lib_2stdio_8c.html#a98631211a4a8aee62f572375d5b637be" title="Writes formatted output to the console." alt="" coords="670,853,722,880"/>
+<area shape="rect" id="node47" href="$insult_8c.html#a727c30b9bfdf10e2f075dfb927e443b7" title=" " alt="" coords="511,296,570,323"/>
+<area shape="rect" id="node26" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="284,777,408,804"/>
+<area shape="rect" id="node27" href="$tar_8c.html#a736a422fc49cb04f6601997fb136c19c" title=" " alt="" coords="136,752,225,779"/>
+<area shape="rect" id="node28" href="$tar_8c.html#a95557238bd1ce1ece7c3859eff9888dc" title=" " alt="" coords="273,727,419,753"/>
+<area shape="rect" id="node29" href="$shell_8c.html#a0abb03c13300144f4e7c50807e31ca3a" title="If *POS is past the beginning of LINE, backs up one character position." alt="" coords="498,347,583,373"/>
+<area shape="rect" id="node30" href="$block_8c.html#af1e8b4db376000c3c1824b19a3984fbb" title="Prints statistics for each block device used for a Pintos role." alt="" coords="479,853,602,880"/>
+<area shape="rect" id="node31" href="$block_8c.html#a39d3d6f31410885d66cf8f719339d79d" title="Registers a new block device with the given NAME." alt="" coords="488,1461,593,1488"/>
+<area shape="rect" id="node32" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="291,1436,401,1463"/>
+<area shape="rect" id="node33" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="278,1512,414,1539"/>
+<area shape="rect" id="node34" href="$tests_2internal_2stdio_8c.html#add606a71d9f818f09ede48c54a3b7c1f" title=" " alt="" coords="511,904,571,931"/>
+<area shape="rect" id="node35" href="$kernel_2console_8c.html#a0535ab189f0f409b481df0df4a4e460b" title="Prints console statistics." alt="" coords="472,1107,609,1133"/>
+<area shape="rect" id="node36" href="$debug_8c.html#a48a47644097877a8b22a70951445524d" title="Prints the call stack, that is, a list of addresses, one in each of the functions we are nested withi..." alt="" coords="479,600,603,627"/>
+<area shape="rect" id="node37" href="$filesys_8c.html#a2710836971ed586925cb1c55850bf955" title="Formats the file system." alt="" coords="499,1157,582,1184"/>
+<area shape="rect" id="node38" href="$tar_8c.html#aed54c3c43e1f39c75bd51bf2b7107c6b" title=" " alt="" coords="505,752,577,779"/>
+<area shape="rect" id="node39" href="$exception_8c.html#a3b29f840ff063cfddd9970ca12bbdc8d" title="Prints exception statistics." alt="" coords="467,1259,615,1285"/>
+<area shape="rect" id="node40" href="$fsutil_8c.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="Copies file FILE_NAME from the file system to the scratch device, in ustar format." alt="" coords="490,1309,591,1336"/>
+<area shape="rect" id="node41" href="$fsutil_8c.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="309,980,383,1007"/>
+<area shape="rect" id="node42" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="492,1360,589,1387"/>
+<area shape="rect" id="node43" href="$fsutil_8c.html#a50cc451070af8d6fd949d2975b5f588d" title="List files in the root directory." alt="" coords="507,448,574,475"/>
+<area shape="rect" id="node44" href="$fsutil_8c.html#abd1a295d2e6c91da47f137c863a26b97" title="Deletes file ARGV[1]." alt="" coords="505,499,577,525"/>
+<area shape="rect" id="node45" href="$lib_2stdio_8c.html#af29b397e488c767a37e2f44c787b4746" title="Dumps the SIZE bytes in BUF to the console as hex bytes arranged 16 per line." alt="" coords="499,1005,583,1032"/>
+<area shape="rect" id="node46" href="$ide_8c.html#a968e89e258918c93a81618744b6c0e35" title="ATA interrupt handler." alt="" coords="285,1296,407,1323"/>
+</map>

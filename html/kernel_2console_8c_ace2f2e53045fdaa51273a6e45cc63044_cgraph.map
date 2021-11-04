@@ -1,0 +1,26 @@
+<map id="release_console" name="release_console">
+<area shape="rect" id="node1" title="Releases the console lock." alt="" coords="5,26,124,53"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="1007,123,1097,150"/>
+<area shape="rect" id="node3" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="172,77,269,103"/>
+<area shape="rect" id="node4" href="$synch_8c.html#a3564cf7ad3b72bee0dd6cdd211ccd666" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="317,69,467,111"/>
+<area shape="rect" id="node9" href="$synch_8c.html#a6da4176e1c419bd4467b181c66b077da" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="353,225,431,251"/>
+<area shape="rect" id="node5" href="$thread_8c.html#a0032becedd11c8a8e10a0a6955c90d66" title="Returns the running thread." alt="" coords="517,77,626,103"/>
+<area shape="rect" id="node6" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="693,98,771,125"/>
+<area shape="rect" id="node7" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="676,47,788,74"/>
+<area shape="rect" id="node8" href="$vaddr_8h.html#a42d21e08e54a8ca6c174c731df74fd3e" title="Round down to nearest page boundary." alt="" coords="836,47,953,74"/>
+<area shape="rect" id="node10" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="849,199,940,226"/>
+<area shape="rect" id="node12" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="682,149,782,175"/>
+<area shape="rect" id="node14" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="853,301,936,327"/>
+<area shape="rect" id="node17" href="$lib_2kernel_2list_8c.html#a25d199933dd83abc9cecfe452bf39837" title="Removes the front element from LIST and returns it." alt="" coords="520,351,623,378"/>
+<area shape="rect" id="node21" href="$thread_8c.html#a0cd30c260607aec4597c5b613c5e013f" title="Transitions a blocked thread T to the ready&#45;to&#45;run state." alt="" coords="515,199,628,226"/>
+<area shape="rect" id="node11" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="1001,186,1103,213"/>
+<area shape="rect" id="node13" href="$interrupt_8c.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="851,149,939,175"/>
+<area shape="rect" id="node15" href="$lib_2kernel_2list_8c.html#a08c9ed5b4d04c46b943f09f84c93064d" title="Returns the beginning of LIST." alt="" coords="1013,301,1091,327"/>
+<area shape="rect" id="node16" href="$lib_2kernel_2list_8c.html#a4ed47fea6462c7db4fde2d0a30e9ce26" title="Returns LIST&#39;s tail." alt="" coords="1018,351,1086,378"/>
+<area shape="rect" id="node18" href="$lib_2kernel_2list_8c.html#a3e89b017d033355801dafd955caa8ad0" title="Returns the front element in LIST." alt="" coords="696,351,768,378"/>
+<area shape="rect" id="node19" href="$lib_2kernel_2list_8c.html#a20dc7b49b9631d32e71294ea9cf38e78" title="Removes ELEM from its list and returns the element that followed it." alt="" coords="849,453,940,479"/>
+<area shape="rect" id="node20" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="1012,453,1092,479"/>
+<area shape="rect" id="node22" href="$lib_2kernel_2list_8c.html#a997639d9e16bed1f4a450c0bdf7959ba" title="Inserts ELEM at the end of LIST, so that it becomes the back in LIST." alt="" coords="677,402,787,429"/>
+<area shape="rect" id="node23" href="$lib_2kernel_2list_8c.html#a57866ab170795aa4191fa14fa1c39dd3" title="Inserts ELEM just before BEFORE, which may be either an interior element or a tail." alt="" coords="855,402,934,429"/>
+<area shape="rect" id="node24" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="1024,402,1080,429"/>
+</map>

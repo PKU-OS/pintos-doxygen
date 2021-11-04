@@ -1,0 +1,9 @@
+<map id="src/devices/serial.h" name="src/devices/serial.h">
+<area shape="rect" id="node1" title=" " alt="" coords="423,5,559,32"/>
+<area shape="rect" id="node2" href="$input_8c.html" title=" " alt="" coords="5,80,137,107"/>
+<area shape="rect" id="node3" href="$serial_8c.html" title=" " alt="" coords="161,80,296,107"/>
+<area shape="rect" id="node4" href="$shutdown_8c.html" title=" " alt="" coords="321,80,481,107"/>
+<area shape="rect" id="node5" href="$kernel_2console_8c.html" title=" " alt="" coords="505,80,662,107"/>
+<area shape="rect" id="node6" href="$kernel_2debug_8c.html" title=" " alt="" coords="687,80,835,107"/>
+<area shape="rect" id="node7" href="$init_8c.html" title=" " alt="" coords="859,80,977,107"/>
+</map>

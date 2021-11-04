@@ -1,0 +1,31 @@
+<map id="inode_length" name="inode_length">
+<area shape="rect" id="node1" title="filesys/inode.h" alt="" coords="1495,272,1593,299"/>
+<area shape="rect" id="node2" href="$file_8c.html#a8866ac568cc804793c456ccb4af71957" title="Returns the size of FILE in bytes." alt="" coords="1047,95,1129,121"/>
+<area shape="rect" id="node11" href="$inode_8c.html#a31fcd756c686b818d56067b4460bfdb9" title="Reads SIZE bytes from INODE into BUFFER, starting at position OFFSET." alt="" coords="1340,272,1447,299"/>
+<area shape="rect" id="node27" href="$inode_8c.html#a09402d2c8d33dc00b2557daa27d944ee" title="Writes SIZE bytes from BUFFER into INODE, starting at OFFSET." alt="" coords="1183,424,1292,451"/>
+<area shape="rect" id="node3" href="$fsutil_8c.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="Copies file FILE_NAME from the file system to the scratch device, in ustar format." alt="" coords="717,171,819,197"/>
+<area shape="rect" id="node6" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="745,227,791,253"/>
+<area shape="rect" id="node10" href="$process_8c.html#a6791a2f8c763395aef1dff4c8409550b" title="Checks whether PHDR describes a valid, loadable segment in FILE and returns true if so,..." alt="" coords="867,120,993,147"/>
+<area shape="rect" id="node4" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,265,227,292"/>
+<area shape="rect" id="node5" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,265,88,292"/>
+<area shape="rect" id="node7" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="567,227,669,253"/>
+<area shape="rect" id="node8" href="$process_8c.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="396,233,519,260"/>
+<area shape="rect" id="node9" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="275,259,348,285"/>
+<area shape="rect" id="node12" href="$directory_8c.html#a86380e077145f4f4ca42e0bd413c79fd" title="Adds a file named NAME to DIR, which must not already contain a file by that name." alt="" coords="1055,373,1121,400"/>
+<area shape="rect" id="node15" href="$directory_8c.html#ae9ec2107e448111aca8951c2f7bfa61b" title="Reads the next directory entry in DIR and stores the name in NAME." alt="" coords="1195,25,1280,52"/>
+<area shape="rect" id="node17" href="$file_8c.html#aa970e0e3d037e457750745798328db97" title="Reads SIZE bytes from FILE into BUFFER, starting at the file&#39;s current position." alt="" coords="1051,272,1125,299"/>
+<area shape="rect" id="node20" href="$file_8c.html#a9f62f31208f5a024b47fc3ac90ed0b9c" title="Reads SIZE bytes from FILE into BUFFER, starting at offset FILE_OFS in the file." alt="" coords="1191,221,1283,248"/>
+<area shape="rect" id="node21" href="$directory_8c.html#ab2c71a2a1a0ffa3c618792babf4fc8b9" title="Searches DIR for a file with the given NAME." alt="" coords="1207,323,1268,349"/>
+<area shape="rect" id="node13" href="$filesys_8c.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="878,424,982,451"/>
+<area shape="rect" id="node14" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="719,399,817,425"/>
+<area shape="rect" id="node16" href="$fsutil_8c.html#a50cc451070af8d6fd949d2975b5f588d" title="List files in the root directory." alt="" coords="585,5,651,32"/>
+<area shape="rect" id="node18" href="$fsutil_8c.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="731,323,805,349"/>
+<area shape="rect" id="node19" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="877,221,983,248"/>
+<area shape="rect" id="node22" href="$directory_8c.html#a782062143b05a6f32d11457cfd6259f6" title="Searches DIR for a file with the given NAME and returns true if one exists, false otherwise." alt="" coords="1046,323,1130,349"/>
+<area shape="rect" id="node24" href="$directory_8c.html#ae277e450f2d6d436a61adccc0ad5ce23" title="Removes any entry for NAME in DIR." alt="" coords="1043,424,1133,451"/>
+<area shape="rect" id="node23" href="$filesys_8c.html#a79d6e6b4a6c2295fba2322000c7c19fd" title="Opens the file with the given NAME." alt="" coords="882,323,978,349"/>
+<area shape="rect" id="node25" href="$filesys_8c.html#ac536ffc3c10934a7f80e43e98b7c75ae" title="Deletes the file named NAME." alt="" coords="875,525,985,552"/>
+<area shape="rect" id="node26" href="$fsutil_8c.html#abd1a295d2e6c91da47f137c863a26b97" title="Deletes file ARGV[1]." alt="" coords="421,472,493,499"/>
+<area shape="rect" id="node28" href="$file_8c.html#a5c3629e8008d2ad73290be83f84d27eb" title="Writes SIZE bytes from BUFFER into FILE, starting at the file&#39;s current position." alt="" coords="893,475,967,501"/>
+<area shape="rect" id="node29" href="$file_8c.html#a066213728ed4ad6314a980f50c2c93d7" title="Writes SIZE bytes from BUFFER into FILE, starting at offset FILE_OFS in the file." alt="" coords="1041,525,1135,552"/>
+</map>

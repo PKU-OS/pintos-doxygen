@@ -1,0 +1,9 @@
+<map id="verify_list_fwd" name="verify_list_fwd">
+<area shape="rect" id="node1" title="Verifies that LIST contains the values 0...SIZE when traversed in forward order." alt="" coords="5,81,111,108"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a08c9ed5b4d04c46b943f09f84c93064d" title="Returns the beginning of LIST." alt="" coords="166,5,245,32"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a4ed47fea6462c7db4fde2d0a30e9ce26" title="Returns LIST&#39;s tail." alt="" coords="171,56,239,83"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#abd2f8e3cf912b8f9ba5e592d32f11ff3" title="Returns the element after ELEM in its list." alt="" coords="170,107,241,133"/>
+<area shape="rect" id="node7" href="$structvalue.html#ab159f01d4af2ee9aa59cad81f4dd1d7c" title="Item value." alt="" coords="159,157,252,184"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#aee78fb1351519ad20686f6eaf9018b4c" title="Returns true if ELEM is a head, false otherwise." alt="" coords="305,81,375,108"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="300,132,380,159"/>
+</map>

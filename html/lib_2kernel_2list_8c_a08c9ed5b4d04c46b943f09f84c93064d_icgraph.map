@@ -1,0 +1,52 @@
+<map id="list_begin" name="list_begin">
+<area shape="rect" id="node1" title="Returns the beginning of LIST." alt="" coords="1007,968,1085,995"/>
+<area shape="rect" id="node2" href="$block_8c.html#a215ed8c0dc495aff38df8d2292de1d4a" title="Returns the first block device in kernel probe order, or a null pointer if no block devices are regis..." alt="" coords="847,5,929,32"/>
+<area shape="rect" id="node3" href="$block_8c.html#a2d68abf91f7391a1e5cab465e97e4879" title="Returns the block device with the given NAME, or a null pointer if no block device has that name." alt="" coords="817,56,959,83"/>
+<area shape="rect" id="node4" href="$hash_8c.html#ac4076bdc6de7918d5a8ea6558317d37a" title="Searches BUCKET in H for a hash element equal to E." alt="" coords="484,157,564,184"/>
+<area shape="rect" id="node9" href="$hash_8c.html#a6d71d3d3959c2595bce5167a3c5bf741" title="Calls ACTION for each element in hash table H in arbitrary order." alt="" coords="843,1272,933,1299"/>
+<area shape="rect" id="node10" href="$hash_8c.html#a6eb8f4f11b604df3242df87d62232f8e" title="Advances I to the next element in the hash table and returns it." alt="" coords="846,1323,930,1349"/>
+<area shape="rect" id="node11" href="$inode_8c.html#a7adc21afc633b56d25a229ce0087c4a0" title="Reads an inode from SECTOR and returns a ‘struct inode’ that contains it." alt="" coords="478,411,570,437"/>
+<area shape="rect" id="node23" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="847,715,929,741"/>
+<area shape="rect" id="node32" href="$lib_2kernel_2list_8c.html#ac2bed4543182c599319388b26e10811f" title="Reverses the order of LIST." alt="" coords="651,867,742,893"/>
+<area shape="rect" id="node33" href="$tests_2internal_2list_8c.html#a708a4c1a4d0c4acc4c447310dd4db27f" title="Test the linked list implementation." alt="" coords="502,1044,546,1071"/>
+<area shape="rect" id="node35" href="$lib_2kernel_2list_8c.html#a397fda9934a9ac691042d8ffc45fe661" title="Iterates through LIST and removes all but the first in each set of adjacent elements that are equal a..." alt="" coords="654,917,739,944"/>
+<area shape="rect" id="node37" href="$hash_8c.html#afc76c6b6a33bf5fac77a82491e17dbf0" title="Changes the number of buckets in hash table H to match the ideal." alt="" coords="493,208,555,235"/>
+<area shape="rect" id="node40" href="$lib_2kernel_2list_8c.html#ae4058771295e0b2aba7876d6d89548a2" title="Inserts ELEM in the proper position in LIST, which must be sorted according to LESS given auxiliary d..." alt="" coords="631,1019,763,1045"/>
+<area shape="rect" id="node41" href="$lib_2kernel_2list_8c.html#a677c01c4fee5c30afb2472ea14706be3" title="Returns the element in LIST with the largest value according to LESS given auxiliary data AUX." alt="" coords="661,1069,732,1096"/>
+<area shape="rect" id="node42" href="$lib_2kernel_2list_8c.html#a120a887d1a6434912e3d3197bd9fc50d" title="Returns the element in LIST with the smallest value according to LESS given auxiliary data AUX." alt="" coords="855,1120,921,1147"/>
+<area shape="rect" id="node43" href="$lib_2kernel_2list_8c.html#a2b0911a5635312de560f8d2a744956ad" title="Inserts ELEM at the beginning of LIST, so that it becomes the front in LIST." alt="" coords="833,309,943,336"/>
+<area shape="rect" id="node46" href="$lib_2kernel_2list_8c.html#aba220488f6116edf5fdba59a208d42df" title="Returns the number of elements in LIST." alt="" coords="853,1373,923,1400"/>
+<area shape="rect" id="node47" href="$lib_2kernel_2list_8c.html#ac98aaa729d0684903c5c4cb6a09691f4" title="Sorts LIST according to LESS given auxiliary data AUX, using a natural iterative merge sort that runs..." alt="" coords="854,1171,922,1197"/>
+<area shape="rect" id="node48" href="$thread_8c.html#af8e1023bfbf318808dcb220a6596eea5" title="Invoke function &#39;func&#39; on all threads, passing along &#39;aux&#39;." alt="" coords="832,1424,944,1451"/>
+<area shape="rect" id="node50" href="$tests_2internal_2list_8c.html#a9c25b166708fe22d0bac3ca8246fc9ca" title="Verifies that LIST contains the values 0...SIZE when traversed in forward order." alt="" coords="835,1221,941,1248"/>
+<area shape="rect" id="node5" href="$hash_8c.html#ae6883a2cfbe20dfc98e5f85693993c5a" title="Finds, removes, and returns an element equal to E in hash table H." alt="" coords="315,157,410,184"/>
+<area shape="rect" id="node6" href="$hash_8c.html#ac056bdde338e9deba7450c98f85db452" title="Finds and returns an element equal to E in hash table H, or a null pointer if no equal element exists..." alt="" coords="323,107,403,133"/>
+<area shape="rect" id="node7" href="$hash_8c.html#a26ad9e72e8bad0b09ac7b7ec58d96970" title="Inserts NEW into hash table H and returns a null pointer, if no equal element is already in the table..." alt="" coords="317,208,408,235"/>
+<area shape="rect" id="node8" href="$hash_8c.html#ad517eb96a6288f0ffebe0b66ef47a0fe" title="Inserts NEW into hash table H, replacing any equal element already in the table, which is returned." alt="" coords="311,259,414,285"/>
+<area shape="rect" id="node12" href="$directory_8c.html#a782062143b05a6f32d11457cfd6259f6" title="Searches DIR for a file with the given NAME and returns true if one exists, false otherwise." alt="" coords="321,411,405,437"/>
+<area shape="rect" id="node14" href="$directory_8c.html#afdea7fe972a97776e832c4324b0c4b9d" title="Opens the root directory and returns a directory for it." alt="" coords="311,461,415,488"/>
+<area shape="rect" id="node18" href="$directory_8c.html#ae277e450f2d6d436a61adccc0ad5ce23" title="Removes any entry for NAME in DIR." alt="" coords="318,537,407,564"/>
+<area shape="rect" id="node19" href="$free-map_8c.html#a928c69cba9ea179d6fe581acd970c512" title="Creates a new free map file on disk and writes the free map to it." alt="" coords="301,309,424,336"/>
+<area shape="rect" id="node22" href="$free-map_8c.html#a82ae69d4b7534829d5c1672231c62370" title="Opens the free map file and reads it from disk." alt="" coords="137,360,253,387"/>
+<area shape="rect" id="node13" href="$filesys_8c.html#a79d6e6b4a6c2295fba2322000c7c19fd" title="Opens the file with the given NAME." alt="" coords="147,411,243,437"/>
+<area shape="rect" id="node15" href="$filesys_8c.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="143,461,247,488"/>
+<area shape="rect" id="node16" href="$filesys_8c.html#ac536ffc3c10934a7f80e43e98b7c75ae" title="Deletes the file named NAME." alt="" coords="140,563,251,589"/>
+<area shape="rect" id="node17" href="$fsutil_8c.html#a50cc451070af8d6fd949d2975b5f588d" title="List files in the root directory." alt="" coords="162,512,229,539"/>
+<area shape="rect" id="node20" href="$filesys_8c.html#a2710836971ed586925cb1c55850bf955" title="Formats the file system." alt="" coords="154,309,237,336"/>
+<area shape="rect" id="node21" href="$filesys_8c.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="5,335,89,361"/>
+<area shape="rect" id="node24" href="$synch_8c.html#abd647748214f5f33ba24336941ffeb11" title="Wakes up all threads, if any, waiting on COND (protected by LOCK)." alt="" coords="304,639,421,665"/>
+<area shape="rect" id="node25" href="$synch_8c.html#a4534660eba2b75a5e5e34590d743f685" title="If any threads are waiting on COND (protected by LOCK), then this function signals one of them to wak..." alt="" coords="477,664,571,691"/>
+<area shape="rect" id="node26" href="$hash_8c.html#ac30cf6a39e2a6654961891ac5f67e2c1" title="Removes all the elements from H." alt="" coords="653,563,740,589"/>
+<area shape="rect" id="node29" href="$lib_2kernel_2list_8c.html#ac5d7c2968d797882d89627fa2d51f3f8" title="Returns the back element in LIST." alt="" coords="660,765,733,792"/>
+<area shape="rect" id="node31" href="$lib_2kernel_2list_8c.html#a3e89b017d033355801dafd955caa8ad0" title="Returns the front element in LIST." alt="" coords="661,816,733,843"/>
+<area shape="rect" id="node36" href="$malloc_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="667,461,727,488"/>
+<area shape="rect" id="node38" href="$thread_8c.html#ace7a46dcf0f5c9c4cbb8f47a5b3c76f5" title="Chooses and returns the next thread to be scheduled." alt="" coords="628,512,765,539"/>
+<area shape="rect" id="node39" href="$synch_8c.html#a6da4176e1c419bd4467b181c66b077da" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="658,715,735,741"/>
+<area shape="rect" id="node27" href="$hash_8c.html#ac69fc1bec8463507c3967d0f77653125" title="Destroys hash table H." alt="" coords="473,473,575,500"/>
+<area shape="rect" id="node28" href="$hash_8c.html#a9865a9a0b79392bf398700fedf47a44a" title="Initializes hash table H to compute hash values using HASH and compare hash elements using LESS,..." alt="" coords="486,537,562,564"/>
+<area shape="rect" id="node30" href="$lib_2kernel_2list_8c.html#aeb04fea12c1dd3df623a01695f55d9ea" title="Removes the back element from LIST and returns it." alt="" coords="472,765,576,792"/>
+<area shape="rect" id="node34" href="$alarm-wait_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="321,1044,404,1071"/>
+<area shape="rect" id="node44" href="$malloc_8c.html#a9f850d0608418aea291e4c0fdab93826" title="Frees block P, which must have been previously allocated with malloc(), calloc(), or realloc()." alt="" coords="674,360,719,387"/>
+<area shape="rect" id="node45" href="$hash_8c.html#ae165e4b73842e425e76043deccaa2105" title="Inserts E into BUCKET (in hash table H)." alt="" coords="479,259,569,285"/>
+<area shape="rect" id="node49" href="$kernel_2debug_8c.html#a3236587de5c28bedd8e07c003f58374e" title="Prints call stack of all threads." alt="" coords="624,1424,769,1451"/>
+</map>

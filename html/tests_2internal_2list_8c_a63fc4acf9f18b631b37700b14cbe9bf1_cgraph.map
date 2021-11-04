@@ -1,0 +1,9 @@
+<map id="verify_list_bkwd" name="verify_list_bkwd">
+<area shape="rect" id="node1" title="Verifies that LIST contains the values 0...SIZE when traversed in reverse order." alt="" coords="5,107,121,133"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a3ff37ce2d31ddaa3c373fee1628ffe23" title="Returns the element before ELEM in its list." alt="" coords="180,31,252,57"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#a35ae11c61d0969d13fdacc17b7b6ae1f" title="Returns the LIST&#39;s reverse beginning, for iterating through LIST in reverse order,..." alt="" coords="175,81,257,108"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#a96082be06b35566011a28a6e0559b7db" title="Returns LIST&#39;s head." alt="" coords="180,132,252,159"/>
+<area shape="rect" id="node7" href="$structvalue.html#ab159f01d4af2ee9aa59cad81f4dd1d7c" title="Item value." alt="" coords="169,183,263,209"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="311,5,391,32"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="323,56,379,83"/>
+</map>

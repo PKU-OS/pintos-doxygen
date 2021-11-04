@@ -1,0 +1,8 @@
+<map id="desc" name="desc">
+<area shape="rect" id="node1" title="A simple implementation of malloc()." alt="" coords="5,392,56,419"/>
+<area shape="rect" id="node2" href="$structlist.html" title="List." alt="" coords="73,112,111,139"/>
+<area shape="rect" id="node6" href="$structsemaphore.html" title="A counting semaphore." alt="" coords="47,213,137,240"/>
+<area shape="rect" id="node3" href="$structlist__elem.html" title="Doubly linked list." alt="" coords="96,7,171,33"/>
+<area shape="rect" id="node5" href="$structthread.html" title="A kernel thread or user process." alt="" coords="150,163,210,189"/>
+<area shape="rect" id="node4" href="$structlock.html" title="Lock." alt="" coords="69,303,115,329"/>
+</map>

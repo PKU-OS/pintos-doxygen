@@ -1,0 +1,10 @@
+<map id="src/lib/user/console.c" name="src/lib/user/console.c">
+<area shape="rect" id="node1" title=" " alt="" coords="97,5,244,32"/>
+<area shape="rect" id="node2" href="$user_2stdio_8h.html" title=" " alt="" coords="5,80,67,107"/>
+<area shape="rect" id="node3" href="$string_8h.html" title=" " alt="" coords="91,80,157,107"/>
+<area shape="rect" id="node5" href="$lib_2user_2syscall_8h.html" title=" " alt="" coords="181,80,254,107"/>
+<area shape="rect" id="node8" href="$syscall-nr_8h.html" title=" " alt="" coords="278,80,367,107"/>
+<area shape="rect" id="node4" href="$stddef_8h.html" title=" " alt="" coords="85,155,155,181"/>
+<area shape="rect" id="node6" href="$stdbool_8h.html" title=" " alt="" coords="179,155,255,181"/>
+<area shape="rect" id="node7" href="$debug_8h.html" title=" " alt="" coords="279,155,350,181"/>
+</map>

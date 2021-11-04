@@ -1,0 +1,18 @@
+<map id="file_open" name="file_open">
+<area shape="rect" id="node1" title="Opens a file for the given INODE, of which it takes ownership, and returns the new file." alt="" coords="1020,183,1096,210"/>
+<area shape="rect" id="node2" href="$file_8c.html#a71b69ddf56278e8e076d9ce48b9966b1" title="Opens and returns a new file for the same inode as FILE." alt="" coords="867,82,955,108"/>
+<area shape="rect" id="node3" href="$filesys_8c.html#a79d6e6b4a6c2295fba2322000c7c19fd" title="Opens the file with the given NAME." alt="" coords="863,132,959,159"/>
+<area shape="rect" id="node13" href="$free-map_8c.html#a928c69cba9ea179d6fe581acd970c512" title="Creates a new free map file on disk and writes the free map to it." alt="" coords="849,208,972,235"/>
+<area shape="rect" id="node16" href="$free-map_8c.html#a82ae69d4b7534829d5c1672231c62370" title="Opens the free map file and reads it from disk." alt="" coords="853,259,969,286"/>
+<area shape="rect" id="node4" href="$fsutil_8c.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="Copies file FILE_NAME from the file system to the scratch device, in ustar format." alt="" coords="408,6,509,32"/>
+<area shape="rect" id="node7" href="$fsutil_8c.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="275,56,349,83"/>
+<area shape="rect" id="node8" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="571,107,668,134"/>
+<area shape="rect" id="node9" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="737,158,783,184"/>
+<area shape="rect" id="node5" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,107,227,134"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,158,88,184"/>
+<area shape="rect" id="node10" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="568,158,671,184"/>
+<area shape="rect" id="node11" href="$process_8c.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="397,158,520,184"/>
+<area shape="rect" id="node12" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="275,158,349,184"/>
+<area shape="rect" id="node14" href="$filesys_8c.html#a2710836971ed586925cb1c55850bf955" title="Formats the file system." alt="" coords="719,208,801,235"/>
+<area shape="rect" id="node15" href="$filesys_8c.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="577,208,661,235"/>
+</map>

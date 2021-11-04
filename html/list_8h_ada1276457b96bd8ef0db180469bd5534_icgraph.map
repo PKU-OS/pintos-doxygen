@@ -1,0 +1,4 @@
+<map id="list_back" name="list_back">
+<area shape="rect" id="node1" title="Returns the back element in LIST." alt="" coords="157,5,231,32"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#aeb04fea12c1dd3df623a01695f55d9ea" title="Removes the back element from LIST and returns it." alt="" coords="5,5,109,32"/>
+</map>

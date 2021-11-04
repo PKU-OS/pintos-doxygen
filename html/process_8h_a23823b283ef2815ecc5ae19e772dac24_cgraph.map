@@ -1,0 +1,11 @@
+<map id="process_activate" name="process_activate">
+<area shape="rect" id="node1" title="userprog/process.h" alt="" coords="5,56,128,83"/>
+<area shape="rect" id="node2" href="$pagedir_8c.html#ac0a75950cc56724fef94d224df4b0cd0" title="Loads page directory PD into the CPU&#39;s page directory base register." alt="" coords="176,5,296,32"/>
+<area shape="rect" id="node5" href="$thread_8c.html#a0032becedd11c8a8e10a0a6955c90d66" title="Returns the running thread." alt="" coords="344,81,453,108"/>
+<area shape="rect" id="node9" href="$tss_8c.html#a089f0d1278964a0cc36f92d47febd2d4" title="Sets the ring 0 stack pointer in the TSS to point to the end of the thread stack." alt="" coords="193,107,279,133"/>
+<area shape="rect" id="node3" href="$vaddr_8h.html#a0f6ff2f4a18892d83d6e1c1a3c2d9f9b" title="Returns physical address at which kernel virtual address VADDR is mapped." alt="" coords="375,5,422,32"/>
+<area shape="rect" id="node4" href="$vaddr_8h.html#ad3a451f5e710dfb7831cb7be9a1e04f5" title="Returns true if VADDR is a kernel virtual address." alt="" coords="501,5,617,32"/>
+<area shape="rect" id="node6" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="521,68,598,95"/>
+<area shape="rect" id="node7" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="503,119,615,145"/>
+<area shape="rect" id="node8" href="$vaddr_8h.html#a42d21e08e54a8ca6c174c731df74fd3e" title="Round down to nearest page boundary." alt="" coords="665,119,783,145"/>
+</map>

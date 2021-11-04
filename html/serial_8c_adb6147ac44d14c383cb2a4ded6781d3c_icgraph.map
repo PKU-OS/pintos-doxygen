@@ -1,0 +1,7 @@
+<map id="serial_notify" name="serial_notify">
+<area shape="rect" id="node1" title="The fullness of the input buffer may have changed." alt="" coords="319,31,412,57"/>
+<area shape="rect" id="node2" href="$input_8c.html#a07e161b7f0ec81e4d4d4990e0b5e6a27" title="Retrieves a key from the input buffer." alt="" coords="187,5,271,32"/>
+<area shape="rect" id="node3" href="$input_8c.html#ada444892e4e73de28dfbdb5a50e4ed29" title="Adds a key to the input buffer." alt="" coords="187,56,271,83"/>
+<area shape="rect" id="node4" href="$kbd_8c.html#a342c6a1eb911b8e2a65a5dfba072492b" title=" " alt="" coords="5,31,139,57"/>
+<area shape="rect" id="node5" href="$serial_8c.html#a2d769aaa2d2ff184e5e70fcf4b9d2354" title="Serial interrupt handler." alt="" coords="17,81,127,108"/>
+</map>

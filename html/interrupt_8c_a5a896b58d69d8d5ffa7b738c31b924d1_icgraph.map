@@ -1,0 +1,52 @@
+<map id="intr_enable" name="intr_enable">
+<area shape="rect" id="node1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="1123,1032,1211,1059"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="973,753,1073,780"/>
+<area shape="rect" id="node7" href="$thread_8c.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="409,1057,502,1084"/>
+<area shape="rect" id="node48" href="$thread_8c.html#ac40007d0837868671dffa80f581b4723" title="Function used as the basis for a kernel thread." alt="" coords="971,943,1075,969"/>
+<area shape="rect" id="node49" href="$exception_8c.html#a22263f7481f54fafb7a06f63ea1675c3" title="Page fault handler." alt="" coords="981,1260,1065,1287"/>
+<area shape="rect" id="node3" href="$kernel_2debug_8c.html#a3236587de5c28bedd8e07c003f58374e" title="Prints call stack of all threads." alt="" coords="774,703,919,729"/>
+<area shape="rect" id="node4" href="$thread_8c.html#a34a9d4a5ab1bf577041f4c3f1b8f6c89" title="Does basic initialization of T as a blocked thread named NAME." alt="" coords="805,753,889,780"/>
+<area shape="rect" id="node9" href="$input_8c.html#a07e161b7f0ec81e4d4d4990e0b5e6a27" title="Retrieves a key from the input buffer." alt="" coords="805,804,889,831"/>
+<area shape="rect" id="node10" href="$pit_8c.html#a7dd39bb359cbd638f9134488ab47db4c" title="Configure the given CHANNEL in the PIT." alt="" coords="771,1057,923,1084"/>
+<area shape="rect" id="node11" href="$speaker_8c.html#a7ae6bbf92a40862ee9523cd43e69f925" title="Sets the PC speaker to emit a tone at the given FREQUENCY, in Hz." alt="" coords="604,1007,696,1033"/>
+<area shape="rect" id="node13" href="$vga_8c.html#a39f191e69844ad1aca267e74223651bd" title="Writes C to the VGA text display, interpreting control characters in the conventional ways." alt="" coords="222,1007,298,1033"/>
+<area shape="rect" id="node16" href="$synch_8c.html#ae10ded72d3b93a832b7107566f09286c" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="603,703,697,729"/>
+<area shape="rect" id="node29" href="$synch_8c.html#a1e4e794129baf4a30244058661afa31a" title="Down or &quot;P&quot; operation on a semaphore, but only if the semaphore is not already 0." alt="" coords="789,1108,905,1135"/>
+<area shape="rect" id="node31" href="$synch_8c.html#a6da4176e1c419bd4467b181c66b077da" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="611,297,689,324"/>
+<area shape="rect" id="node37" href="$serial_8c.html#a04858117b8541474fe79c45a044b59cc" title="Flushes anything in the serial buffer out the port in polling mode." alt="" coords="802,145,891,172"/>
+<area shape="rect" id="node40" href="$serial_8c.html#a54e99a9877b7ed2a6be751fc43905978" title="Initializes the serial port device for queued interrupt&#45;driven I/O." alt="" coords="589,1209,711,1236"/>
+<area shape="rect" id="node41" href="$serial_8c.html#a07c75f3160eed07281583bfaf8eddc1b" title="Sends BYTE to the serial port." alt="" coords="607,196,693,223"/>
+<area shape="rect" id="node42" href="$speaker_8c.html#a073f7570ba87d9cbf510616817c60b41" title="Turn off the PC speaker, by disconnecting the timer channel&#39;s output from the speaker." alt="" coords="801,956,893,983"/>
+<area shape="rect" id="node43" href="$thread_8c.html#a0cd30c260607aec4597c5b613c5e013f" title="Transitions a blocked thread T to the ready&#45;to&#45;run state." alt="" coords="790,551,903,577"/>
+<area shape="rect" id="node45" href="$thread_8c.html#aaa9229e0f462f60bb9550919fa3d7699" title="Yields the CPU." alt="" coords="408,500,503,527"/>
+<area shape="rect" id="node47" href="$timer_8c.html#a2b50be77101b38176d21b52cc425cf3e" title="Returns the number of timer ticks since the OS booted." alt="" coords="804,323,889,349"/>
+<area shape="rect" id="node5" href="$thread_8c.html#a8f7759a71c1c49fc8761ef92aa90a36d" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="598,753,702,780"/>
+<area shape="rect" id="node6" href="$synch_8c.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="204,323,316,349"/>
+<area shape="rect" id="node8" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="219,1184,301,1211"/>
+<area shape="rect" id="node15" href="$timer_8c.html#a7b8ab79df77b57475a5494f5f81c3bd9" title="Sets up the timer to interrupt TIMER_FREQ times per second, and registers the corresponding interrupt..." alt="" coords="612,1057,688,1084"/>
+<area shape="rect" id="node12" href="$speaker_8c.html#a1326dce269503d1ba9fac4e40cdf453e" title="Briefly beep the PC speaker." alt="" coords="402,1108,509,1135"/>
+<area shape="rect" id="node14" href="$kernel_2console_8c.html#a5d98987075545c56db87c51597a04bdd" title="Writes C to the vga display and serial port." alt="" coords="5,500,139,527"/>
+<area shape="rect" id="node17" href="$synch_8c.html#a408896d5b2af213dc2a8da984c696419" title="Atomically releases LOCK and waits for COND to be signaled by some other piece of code." alt="" coords="219,652,301,679"/>
+<area shape="rect" id="node18" href="$ide_8c.html#afc9cbaf0892e023867624dca21f5bfa2" title="Reads sector SEC_NO from disk D into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="223,703,297,729"/>
+<area shape="rect" id="node19" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="222,753,298,780"/>
+<area shape="rect" id="node20" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="387,905,523,932"/>
+<area shape="rect" id="node21" href="$priority-donate-sema_8c.html#aeb0f97fa3c6d25534de6a11bf3532aa3" title=" " alt="" coords="209,804,311,831"/>
+<area shape="rect" id="node22" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="407,753,504,780"/>
+<area shape="rect" id="node26" href="$priority-donate-sema_8c.html#a4dc51b1476966c227801513da4bd6b84" title=" " alt="" coords="400,652,511,679"/>
+<area shape="rect" id="node27" href="$priority-sema_8c.html#a256435362d935640e9ba8007e76794d0" title=" " alt="" coords="382,703,529,729"/>
+<area shape="rect" id="node28" href="$synch_8c.html#a57b7a9021b4a9c32f00065da020e96cd" title="Thread function used by sema_self_test()." alt="" coords="391,297,519,324"/>
+<area shape="rect" id="node23" href="$priority-donate-sema_8c.html#a85675782bf8084df44707dfcfd2d7ae8" title=" " alt="" coords="207,500,313,527"/>
+<area shape="rect" id="node24" href="$priority-donate-nest_8c.html#ada3ddea14ea0cb3220f0a00cfa7929dc" title=" " alt="" coords="187,551,333,577"/>
+<area shape="rect" id="node25" href="$priority-fifo_8c.html#a09afbb5707a2af609420fccb0795b96c" title=" " alt="" coords="191,601,329,628"/>
+<area shape="rect" id="node30" href="$synch_8c.html#a343f11e4ce80e077a18e565b6d9ac180" title="Tries to acquires LOCK and returns true if successful or false on failure." alt="" coords="591,1108,709,1135"/>
+<area shape="rect" id="node32" href="$alarm-priority_8c.html#a3a8636bb8f03b8450f18ef9dbd774a0c" title=" " alt="" coords="381,44,529,71"/>
+<area shape="rect" id="node33" href="$synch_8c.html#a4534660eba2b75a5e5e34590d743f685" title="If any threads are waiting on COND (protected by LOCK), then this function signals one of them to wak..." alt="" coords="409,145,502,172"/>
+<area shape="rect" id="node34" href="$thread_8c.html#a6fbc1c29ff118d92ee1449a1072a00ce" title="Idle thread." alt="" coords="434,196,477,223"/>
+<area shape="rect" id="node35" href="$ide_8c.html#a968e89e258918c93a81618744b6c0e35" title="ATA interrupt handler." alt="" coords="394,247,517,273"/>
+<area shape="rect" id="node36" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="407,551,504,577"/>
+<area shape="rect" id="node38" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="601,145,699,172"/>
+<area shape="rect" id="node39" href="$shutdown_8c.html#a4cc4519942eb3292f9ee3702330ebd07" title="Powers down the machine we&#39;re running on, as long as we&#39;re running on Bochs or QEMU." alt="" coords="577,95,723,121"/>
+<area shape="rect" id="node44" href="$intq_8c.html#a9345e011df7272c05780a74adad48225" title="WAITER must be the address of Q&#39;s not_empty or not_full member, and the associated condition must be ..." alt="" coords="621,551,679,577"/>
+<area shape="rect" id="node46" href="$interrupt_8c.html#ad2ddb6c69915597ee636e732afa5795a" title="Interrupt handlers." alt="" coords="214,449,306,476"/>
+<area shape="rect" id="node50" href="$exception_8c.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="795,1260,899,1287"/>
+</map>

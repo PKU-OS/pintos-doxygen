@@ -1,0 +1,11 @@
+<map id="thread_create" name="thread_create">
+<area shape="rect" id="node1" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="587,107,691,133"/>
+<area shape="rect" id="node2" href="$process_8c.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="416,5,539,32"/>
+<area shape="rect" id="node6" href="$synch_8c.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="421,56,533,83"/>
+<area shape="rect" id="node7" href="$mlfqs-fair_8c.html#a5c0bb7da290ed5c6c31e55eb73e1cbe6" title="Measures the correctness of the &quot;nice&quot; implementation." alt="" coords="423,107,532,133"/>
+<area shape="rect" id="node8" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="436,157,519,184"/>
+<area shape="rect" id="node9" href="$thread_8c.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="275,132,368,159"/>
+<area shape="rect" id="node3" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="285,16,358,43"/>
+<area shape="rect" id="node4" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,25,227,52"/>
+<area shape="rect" id="node5" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,69,88,96"/>
+</map>

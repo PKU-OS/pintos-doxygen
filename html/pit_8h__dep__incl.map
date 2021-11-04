@@ -1,0 +1,6 @@
+<map id="src/devices/pit.h" name="src/devices/pit.h">
+<area shape="rect" id="node1" title=" " alt="" coords="164,5,281,32"/>
+<area shape="rect" id="node2" href="$pit_8c.html" title=" " alt="" coords="5,80,123,107"/>
+<area shape="rect" id="node3" href="$speaker_8c.html" title=" " alt="" coords="147,80,298,107"/>
+<area shape="rect" id="node4" href="$timer_8c.html" title=" " alt="" coords="322,80,454,107"/>
+</map>

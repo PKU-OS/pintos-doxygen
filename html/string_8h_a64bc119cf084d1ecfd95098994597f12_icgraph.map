@@ -1,0 +1,52 @@
+<map id="strlcpy" name="strlcpy">
+<area shape="rect" id="node1" title="Extensions." alt="" coords="892,317,952,344"/>
+<area shape="rect" id="node2" href="$block_8c.html#a39d3d6f31410885d66cf8f719339d79d" title="Registers a new block device with the given NAME." alt="" coords="721,73,827,100"/>
+<area shape="rect" id="node7" href="$boundary_8c.html#a73346777413da9809ac477861866a1f4" title="Returns a copy of SRC split across the boundary between two pages." alt="" coords="705,125,843,166"/>
+<area shape="rect" id="node9" href="$directory_8c.html#a86380e077145f4f4ca42e0bd413c79fd" title="Adds a file named NAME to DIR, which must not already contain a file by that name." alt="" coords="741,292,807,319"/>
+<area shape="rect" id="node13" href="$directory_8c.html#ae9ec2107e448111aca8951c2f7bfa61b" title="Reads the next directory entry in DIR and stores the name in NAME." alt="" coords="731,191,817,217"/>
+<area shape="rect" id="node15" href="$pwd_8c.html#ab88726ef2d677a5f50d9a1142d1e4bc6" title="pwd.c" alt="" coords="742,241,806,268"/>
+<area shape="rect" id="node17" href="$thread_8c.html#a34a9d4a5ab1bf577041f4c3f1b8f6c89" title="Does basic initialization of T as a blocked thread named NAME." alt="" coords="732,432,816,459"/>
+<area shape="rect" id="node19" href="$process_8c.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="335,572,458,599"/>
+<area shape="rect" id="node25" href="$tar_8c.html#a5758c0d6627e2210b6e18ec360169e91" title=" " alt="" coords="710,483,838,509"/>
+<area shape="rect" id="node27" href="$ustar_8c.html#a7df8da167076821f714ddcf58700a26b" title="Composes HEADER as a USTAR_HEADER_SIZE (512)&#45;byte archive header in ustar format for a SIZE&#45;byte file..." alt="" coords="704,343,844,369"/>
+<area shape="rect" id="node32" href="$lib_8c.html#a3844191cdd54f12ebfa3eee6d1a79ea1" title=" " alt="" coords="747,876,801,903"/>
+<area shape="rect" id="node3" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="533,75,643,101"/>
+<area shape="rect" id="node5" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="520,12,656,39"/>
+<area shape="rect" id="node4" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="327,80,467,107"/>
+<area shape="rect" id="node6" href="$ide_8c.html#a5e8e1409e0675bdd93040403c52dd660" title="Initialize the disk subsystem and detect disks." alt="" coords="365,5,429,32"/>
+<area shape="rect" id="node8" href="$create-bound_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Opens a file whose name spans the boundary between two pages." alt="" coords="548,129,628,156"/>
+<area shape="rect" id="node10" href="$filesys_8c.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="536,281,640,308"/>
+<area shape="rect" id="node11" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="160,268,257,295"/>
+<area shape="rect" id="node12" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="5,293,96,320"/>
+<area shape="rect" id="node14" href="$fsutil_8c.html#a50cc451070af8d6fd949d2975b5f588d" title="List files in the root directory." alt="" coords="175,205,242,232"/>
+<area shape="rect" id="node16" href="$pwd_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="563,231,613,257"/>
+<area shape="rect" id="node18" href="$thread_8c.html#a8f7759a71c1c49fc8761ef92aa90a36d" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="536,471,640,497"/>
+<area shape="rect" id="node21" href="$synch_8c.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="341,521,453,548"/>
+<area shape="rect" id="node22" href="$mlfqs-fair_8c.html#a5c0bb7da290ed5c6c31e55eb73e1cbe6" title="Measures the correctness of the &quot;nice&quot; implementation." alt="" coords="342,623,451,649"/>
+<area shape="rect" id="node23" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="355,673,438,700"/>
+<area shape="rect" id="node24" href="$thread_8c.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="350,471,443,497"/>
+<area shape="rect" id="node20" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="172,471,245,497"/>
+<area shape="rect" id="node26" href="$tar_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="563,521,613,548"/>
+<area shape="rect" id="node28" href="$fsutil_8c.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="Copies file FILE_NAME from the file system to the scratch device, in ustar format." alt="" coords="158,319,259,345"/>
+<area shape="rect" id="node29" href="$tar_8c.html#aeae922065d4290e3c877a5f3a5d7a824" title=" " alt="" coords="539,383,637,409"/>
+<area shape="rect" id="node30" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="335,420,459,447"/>
+<area shape="rect" id="node31" href="$tar_8c.html#a95557238bd1ce1ece7c3859eff9888dc" title=" " alt="" coords="324,369,469,396"/>
+<area shape="rect" id="node33" href="$lib_8c.html#a7380daad7085b08d0e037abc3136dccd" title=" " alt="" coords="569,1256,607,1283"/>
+<area shape="rect" id="node45" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="565,876,611,903"/>
+<area shape="rect" id="node34" href="$lib_8c.html#ac791f87f4ee593420941edb27a88ac51" title=" " alt="" coords="144,1129,273,1156"/>
+<area shape="rect" id="node35" href="$grow-file-size_8c.html#a8ef3ec43d5a575abeb3e19e261c37f02" title=" " alt="" coords="341,1484,453,1511"/>
+<area shape="rect" id="node36" href="$grow-tell_8c.html#a8113b0e9d1d10d5d3a5c68816bd11168" title=" " alt="" coords="356,1535,437,1561"/>
+<area shape="rect" id="node37" href="$lib_8c.html#a4b2d14053f00e1d846dc10288ac3d474" title="test/lib.h" alt="" coords="340,1129,453,1156"/>
+<area shape="rect" id="node38" href="$child-close_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="371,1231,422,1257"/>
+<area shape="rect" id="node39" href="$seq-test_8c.html#ad8cec223129971af68dbb2b7671dcf3a" title="tests/filesys/seq&#45;test.h" alt="" coords="361,1079,433,1105"/>
+<area shape="rect" id="node40" href="$bad-jump_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="357,1281,437,1308"/>
+<area shape="rect" id="node41" href="$alarm-wait_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="355,1433,438,1460"/>
+<area shape="rect" id="node42" href="$page-merge-seq_8c.html#a918b046cec37d7261c86402686859e9a" title=" " alt="" coords="370,1028,423,1055"/>
+<area shape="rect" id="node43" href="$dir-rm-cwd_8c.html#a91408b163987dab888f237df2213e7e9" title="Tries to remove the current directory, which may succeed or fail." alt="" coords="353,1332,441,1359"/>
+<area shape="rect" id="node44" href="$grow-two-files_8c.html#afae26c760b28a632091df7565c0e8224" title=" " alt="" coords="332,1383,461,1409"/>
+<area shape="rect" id="node46" href="$priority-donate-multiple_8c.html#a56379b758fb21b5a67de1a87d2a74672" title=" " alt="" coords="343,724,450,751"/>
+<area shape="rect" id="node47" href="$priority-donate-one_8c.html#adbcd765439b4d960f0db9ba4a47d421f" title=" " alt="" coords="321,775,472,801"/>
+<area shape="rect" id="node48" href="$priority-donate-one_8c.html#aae18eed8351e7789ef848517a96284a5" title=" " alt="" coords="321,825,472,852"/>
+<area shape="rect" id="node49" href="$priority-donate-lower_8c.html#ab955dabdbbfc7a7a188317e70b95ef04" title=" " alt="" coords="325,876,469,903"/>
+<area shape="rect" id="node50" href="$alarm-priority_8c.html#a3a8636bb8f03b8450f18ef9dbd774a0c" title=" " alt="" coords="323,927,471,953"/>
+</map>

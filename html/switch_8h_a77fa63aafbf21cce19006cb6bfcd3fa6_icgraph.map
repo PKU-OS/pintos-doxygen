@@ -1,0 +1,14 @@
+<map id="switch_entry" name="switch_entry">
+<area shape="rect" id="node1" title=" " alt="" coords="773,107,869,133"/>
+<area shape="rect" id="node2" href="$kernel_2debug_8c.html#a365e894fc9160db88206cb2eda82215f" title="Print call stack of a thread." alt="" coords="609,44,725,71"/>
+<area shape="rect" id="node4" href="$thread_8c.html#a8f7759a71c1c49fc8761ef92aa90a36d" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="615,132,719,159"/>
+<area shape="rect" id="node3" href="$kernel_2debug_8c.html#a3236587de5c28bedd8e07c003f58374e" title="Prints call stack of all threads." alt="" coords="416,5,561,32"/>
+<area shape="rect" id="node5" href="$process_8c.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="427,56,550,83"/>
+<area shape="rect" id="node9" href="$synch_8c.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="433,107,545,133"/>
+<area shape="rect" id="node10" href="$mlfqs-fair_8c.html#a5c0bb7da290ed5c6c31e55eb73e1cbe6" title="Measures the correctness of the &quot;nice&quot; implementation." alt="" coords="434,157,543,184"/>
+<area shape="rect" id="node11" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="447,208,530,235"/>
+<area shape="rect" id="node12" href="$thread_8c.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="275,183,368,209"/>
+<area shape="rect" id="node6" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="285,67,358,93"/>
+<area shape="rect" id="node7" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,76,227,103"/>
+<area shape="rect" id="node8" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,120,88,147"/>
+</map>

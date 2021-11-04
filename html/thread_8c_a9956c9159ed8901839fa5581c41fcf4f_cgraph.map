@@ -1,0 +1,7 @@
+<map id="thread_set_priority" name="thread_set_priority">
+<area shape="rect" id="node1" title="Sets the current thread&#39;s priority to NEW_PRIORITY." alt="" coords="5,31,137,57"/>
+<area shape="rect" id="node2" href="$thread_8c.html#a0032becedd11c8a8e10a0a6955c90d66" title="Returns the running thread." alt="" coords="185,31,295,57"/>
+<area shape="rect" id="node3" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="360,5,437,32"/>
+<area shape="rect" id="node4" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="343,56,455,83"/>
+<area shape="rect" id="node5" href="$vaddr_8h.html#a42d21e08e54a8ca6c174c731df74fd3e" title="Round down to nearest page boundary." alt="" coords="503,56,620,83"/>
+</map>

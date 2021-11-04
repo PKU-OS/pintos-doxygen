@@ -1,0 +1,7 @@
+<map id="compare_thunk" name="compare_thunk">
+<area shape="rect" id="node1" title="Compares A and B by calling the AUX function." alt="" coords="280,31,393,57"/>
+<area shape="rect" id="node2" href="$lib_2stdlib_8c.html#a1b13205ce2f7780d2b3bef2043ab2f0b" title="Searches ARRAY, which contains CNT elements of SIZE bytes each, for the given KEY." alt="" coords="163,5,232,32"/>
+<area shape="rect" id="node4" href="$lib_2stdlib_8c.html#a6363578a34c184350bc9e6234e5eacf6" title="Sorts ARRAY, which contains CNT elements of SIZE bytes each, using COMPARE." alt="" coords="171,56,223,83"/>
+<area shape="rect" id="node3" href="$tests_2internal_2stdlib_8c.html#a7db76728639770e54b0326c534f6d5f5" title="Checks that bsearch() works properly in ARRAY." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node5" href="$tests_2internal_2stdlib_8c.html#a708a4c1a4d0c4acc4c447310dd4db27f" title="Test sorting and searching implementations." alt="" coords="38,56,82,83"/>
+</map>

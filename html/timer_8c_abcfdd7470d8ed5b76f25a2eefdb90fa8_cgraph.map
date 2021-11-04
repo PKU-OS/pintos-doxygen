@@ -1,0 +1,10 @@
+<map id="timer_interrupt" name="timer_interrupt">
+<area shape="rect" id="node1" title="Timer interrupt handler." alt="" coords="5,31,113,57"/>
+<area shape="rect" id="node2" href="$thread_8c.html#a99b55ae8059d7834cc113334a3fd0c3c" title="Called by the timer interrupt handler at each timer tick." alt="" coords="161,31,248,57"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#a55213985fa8103301b86b15509d78243" title="During processing of an external interrupt, directs the interrupt handler to yield to a new process j..." alt="" coords="296,5,436,32"/>
+<area shape="rect" id="node5" href="$thread_8c.html#a0032becedd11c8a8e10a0a6955c90d66" title="Returns the running thread." alt="" coords="311,56,421,83"/>
+<area shape="rect" id="node4" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="495,5,585,32"/>
+<area shape="rect" id="node6" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="501,56,579,83"/>
+<area shape="rect" id="node7" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="484,107,596,133"/>
+<area shape="rect" id="node8" href="$vaddr_8h.html#a42d21e08e54a8ca6c174c731df74fd3e" title="Round down to nearest page boundary." alt="" coords="644,107,761,133"/>
+</map>

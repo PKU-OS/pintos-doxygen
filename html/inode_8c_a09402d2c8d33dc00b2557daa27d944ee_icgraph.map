@@ -1,0 +1,13 @@
+<map id="inode_write_at" name="inode_write_at">
+<area shape="rect" id="node1" title="Writes SIZE bytes from BUFFER into INODE, starting at OFFSET." alt="" coords="720,81,829,108"/>
+<area shape="rect" id="node2" href="$directory_8c.html#a86380e077145f4f4ca42e0bd413c79fd" title="Adds a file named NAME to DIR, which must not already contain a file by that name." alt="" coords="592,56,659,83"/>
+<area shape="rect" id="node7" href="$directory_8c.html#ae277e450f2d6d436a61adccc0ad5ce23" title="Removes any entry for NAME in DIR." alt="" coords="581,107,670,133"/>
+<area shape="rect" id="node10" href="$file_8c.html#a5c3629e8008d2ad73290be83f84d27eb" title="Writes SIZE bytes from BUFFER into FILE, starting at the file&#39;s current position." alt="" coords="438,5,513,32"/>
+<area shape="rect" id="node11" href="$file_8c.html#a066213728ed4ad6314a980f50c2c93d7" title="Writes SIZE bytes from BUFFER into FILE, starting at offset FILE_OFS in the file." alt="" coords="579,157,672,184"/>
+<area shape="rect" id="node3" href="$filesys_8c.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="423,56,527,83"/>
+<area shape="rect" id="node4" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="275,56,372,83"/>
+<area shape="rect" id="node5" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,81,227,108"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,81,88,108"/>
+<area shape="rect" id="node8" href="$filesys_8c.html#ac536ffc3c10934a7f80e43e98b7c75ae" title="Deletes the file named NAME." alt="" coords="420,107,531,133"/>
+<area shape="rect" id="node9" href="$fsutil_8c.html#abd1a295d2e6c91da47f137c863a26b97" title="Deletes file ARGV[1]." alt="" coords="287,107,359,133"/>
+</map>

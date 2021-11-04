@@ -1,0 +1,52 @@
+<map id="running_thread" name="running_thread">
+<area shape="rect" id="node1" title="Returns the running thread." alt="" coords="1577,196,1689,223"/>
+<area shape="rect" id="node2" href="$thread_8c.html#a63e3ec45b7bf0028e55f2b9ab1603306" title="Schedules a new process." alt="" coords="741,272,817,299"/>
+<area shape="rect" id="node34" href="$thread_8c.html#a0032becedd11c8a8e10a0a6955c90d66" title="Returns the running thread." alt="" coords="1420,551,1529,577"/>
+<area shape="rect" id="node43" href="$thread_8c.html#acbbd25908c41e62d44a179cfbc3962e2" title="Completes a thread switch by activating the new thread&#39;s page tables, and, if the previous thread is ..." alt="" coords="876,272,1021,299"/>
+<area shape="rect" id="node3" href="$thread_8c.html#ad70c4eeb51cd5b0ce2abb939924c7469" title="Puts the current thread to sleep." alt="" coords="583,95,682,121"/>
+<area shape="rect" id="node24" href="$thread_8c.html#a87c2438941819bb3cc31658aa9eb66fe" title="Deschedules the current thread and destroys it." alt="" coords="589,753,677,780"/>
+<area shape="rect" id="node30" href="$thread_8c.html#aaa9229e0f462f60bb9550919fa3d7699" title="Yields the CPU." alt="" coords="585,323,680,349"/>
+<area shape="rect" id="node4" href="$thread_8c.html#a6fbc1c29ff118d92ee1449a1072a00ce" title="Idle thread." alt="" coords="439,5,481,32"/>
+<area shape="rect" id="node5" href="$synch_8c.html#ae10ded72d3b93a832b7107566f09286c" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="413,145,507,172"/>
+<area shape="rect" id="node23" href="$intq_8c.html#ac7faf9c8b94faf0aa76ed2b23659a3e0" title="WAITER must be the address of Q&#39;s not_empty or not_full member." alt="" coords="437,69,483,96"/>
+<area shape="rect" id="node6" href="$synch_8c.html#a408896d5b2af213dc2a8da984c696419" title="Atomically releases LOCK and waits for COND to be signaled by some other piece of code." alt="" coords="39,145,122,172"/>
+<area shape="rect" id="node7" href="$ide_8c.html#afc9cbaf0892e023867624dca21f5bfa2" title="Reads sector SEC_NO from disk D into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="44,95,117,121"/>
+<area shape="rect" id="node8" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="222,449,319,476"/>
+<area shape="rect" id="node9" href="$priority-donate-multiple_8c.html#a56379b758fb21b5a67de1a87d2a74672" title=" " alt="" coords="27,601,134,628"/>
+<area shape="rect" id="node10" href="$priority-donate-one_8c.html#adbcd765439b4d960f0db9ba4a47d421f" title=" " alt="" coords="5,652,156,679"/>
+<area shape="rect" id="node11" href="$priority-donate-one_8c.html#aae18eed8351e7789ef848517a96284a5" title=" " alt="" coords="5,703,156,729"/>
+<area shape="rect" id="node12" href="$kernel_2console_8c.html#a69b6a57a329ae666df343a081a51e7a5" title="Acquires the console lock." alt="" coords="21,804,140,831"/>
+<area shape="rect" id="node13" href="$priority-donate-lower_8c.html#ab955dabdbbfc7a7a188317e70b95ef04" title=" " alt="" coords="9,247,153,273"/>
+<area shape="rect" id="node14" href="$thread_8c.html#a382e72d5d2fb4cfe2b5034eb62a887c8" title="Returns a tid to use for a new thread." alt="" coords="36,297,125,324"/>
+<area shape="rect" id="node15" href="$priority-donate-multiple_8c.html#af257d61c4fea017f52981dbe2a40534b" title=" " alt="" coords="27,348,134,375"/>
+<area shape="rect" id="node16" href="$mlfqs-block_8c.html#afae0754a3b814ae247351cc6ee14276c" title="Checks that recent_cpu and priorities are updated for blocked threads." alt="" coords="31,399,130,425"/>
+<area shape="rect" id="node17" href="$priority-donate-chain_8c.html#af3ea65daade3a57b9afbfaf87d187dfd" title=" " alt="" coords="14,855,147,881"/>
+<area shape="rect" id="node18" href="$malloc_8c.html#a9f850d0608418aea291e4c0fdab93826" title="Frees block P, which must have been previously allocated with malloc(), calloc(), or realloc()." alt="" coords="58,449,103,476"/>
+<area shape="rect" id="node19" href="$priority-donate-sema_8c.html#a85675782bf8084df44707dfcfd2d7ae8" title=" " alt="" coords="27,500,134,527"/>
+<area shape="rect" id="node20" href="$priority-donate-nest_8c.html#acc1e53225c07946f00921d331e5736c5" title=" " alt="" coords="18,551,143,577"/>
+<area shape="rect" id="node21" href="$priority-donate-nest_8c.html#ada3ddea14ea0cb3220f0a00cfa7929dc" title=" " alt="" coords="7,753,154,780"/>
+<area shape="rect" id="node22" href="$priority-fifo_8c.html#a09afbb5707a2af609420fccb0795b96c" title=" " alt="" coords="11,196,150,223"/>
+<area shape="rect" id="node25" href="$thread_8c.html#ac40007d0837868671dffa80f581b4723" title="Function used as the basis for a kernel thread." alt="" coords="408,804,512,831"/>
+<area shape="rect" id="node26" href="$exception_8c.html#a6984b10e1d2a817938f8e70a89d13ff9" title="Handler for an exception (probably) caused by a user process." alt="" coords="441,905,479,932"/>
+<area shape="rect" id="node27" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="419,703,501,729"/>
+<area shape="rect" id="node28" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="409,855,511,881"/>
+<area shape="rect" id="node29" href="$userprog_2syscall_8c.html#a433a22b69ff6c6b56fe2bd9214c2ecc9" title=" " alt="" coords="403,753,517,780"/>
+<area shape="rect" id="node31" href="$interrupt_8c.html#ad2ddb6c69915597ee636e732afa5795a" title="Interrupt handlers." alt="" coords="414,323,506,349"/>
+<area shape="rect" id="node32" href="$alarm-simultaneous_8c.html#ab0a63a1d2a48bb4fe102b9254a82938d" title="Sleeper thread." alt="" coords="238,297,303,324"/>
+<area shape="rect" id="node33" href="$timer_8c.html#aa24fbc19fb550d9efd5cabd97489a399" title="Sleeps for approximately TICKS timer ticks." alt="" coords="415,373,505,400"/>
+<area shape="rect" id="node35" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="1259,905,1353,932"/>
+<area shape="rect" id="node37" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="925,855,972,881"/>
+<area shape="rect" id="node39" href="$synch_8c.html#a3564cf7ad3b72bee0dd6cdd211ccd666" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="385,637,535,678"/>
+<area shape="rect" id="node40" href="$synch_8c.html#a343f11e4ce80e077a18e565b6d9ac180" title="Tries to acquires LOCK and returns true if successful or false on failure." alt="" coords="211,905,330,932"/>
+<area shape="rect" id="node41" href="$kernel_2debug_8c.html#a365e894fc9160db88206cb2eda82215f" title="Print call stack of a thread." alt="" coords="1248,804,1364,831"/>
+<area shape="rect" id="node42" href="$process_8c.html#a23823b283ef2815ecc5ae19e772dac24" title="Sets up the CPU for running user code in the current thread." alt="" coords="1069,583,1192,609"/>
+<area shape="rect" id="node44" href="$process_8c.html#aebdb54e5e3307f27106f43a7c4d3536c" title="Free the current process&#39;s resources." alt="" coords="731,753,828,780"/>
+<area shape="rect" id="node45" href="$thread_8c.html#a7425a4395bacbf7d3e50ba10ff42f5b6" title="Returns the current thread&#39;s priority." alt="" coords="204,753,337,780"/>
+<area shape="rect" id="node46" href="$thread_8c.html#a85a867dd25d3133aa461b3decb225db6" title="Returns the name of the running thread." alt="" coords="583,1007,683,1033"/>
+<area shape="rect" id="node47" href="$thread_8c.html#a9956c9159ed8901839fa5581c41fcf4f" title="Sets the current thread&#39;s priority to NEW_PRIORITY." alt="" coords="1240,1057,1372,1084"/>
+<area shape="rect" id="node48" href="$thread_8c.html#a99b55ae8059d7834cc113334a3fd0c3c" title="Called by the timer interrupt handler at each timer tick." alt="" coords="1263,399,1349,425"/>
+<area shape="rect" id="node49" href="$thread_8c.html#ac4557309ef822a88c742c075ecb16a11" title="Returns the running thread&#39;s tid." alt="" coords="1265,297,1347,324"/>
+<area shape="rect" id="node50" href="$tss_8c.html#a089f0d1278964a0cc36f92d47febd2d4" title="Sets the ring 0 stack pointer in the TSS to point to the end of the thread stack." alt="" coords="1263,551,1349,577"/>
+<area shape="rect" id="node36" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="1078,905,1183,932"/>
+<area shape="rect" id="node38" href="$process_8c.html#a5064a62e44eba6572e28f9e2274b4e84" title="Create a minimal stack by mapping a zeroed page at the top of user virtual memory." alt="" coords="1084,855,1177,881"/>
+</map>

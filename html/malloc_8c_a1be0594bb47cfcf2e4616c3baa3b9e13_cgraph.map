@@ -1,0 +1,10 @@
+<map id="malloc_init" name="malloc_init">
+<area shape="rect" id="node1" title="Initializes the malloc() descriptors." alt="" coords="5,107,91,133"/>
+<area shape="rect" id="node2" href="$malloc_8c.html#a5c458831ba323df0b0a8aae95cf614bd" title="Returns the number of bytes allocated for BLOCK." alt="" coords="139,56,223,83"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#a8aa862d10f52f7b0348fce990c7c12db" title="Initializes LIST as an empty list." alt="" coords="459,132,522,159"/>
+<area shape="rect" id="node7" href="$synch_8c.html#aa760472aa4916bba476b2165ea25b411" title="Initializes LOCK." alt="" coords="145,157,216,184"/>
+<area shape="rect" id="node3" href="$malloc_8c.html#a5db3c69e2b5fc7fb13fa1f663df2bf03" title="Returns the arena that block B is inside." alt="" coords="271,56,384,83"/>
+<area shape="rect" id="node4" href="$vaddr_8h.html#ac12acb882dfd1a70e6c8f69935dc3747" title="Offset within a page." alt="" coords="459,5,522,32"/>
+<area shape="rect" id="node5" href="$vaddr_8h.html#a42d21e08e54a8ca6c174c731df74fd3e" title="Round down to nearest page boundary." alt="" coords="432,56,549,83"/>
+<area shape="rect" id="node8" href="$synch_8c.html#a1349a31f4880cf4eae026761f0ab3343" title="This file is derived from source code for the Nachos instructional operating system." alt="" coords="288,157,367,184"/>
+</map>

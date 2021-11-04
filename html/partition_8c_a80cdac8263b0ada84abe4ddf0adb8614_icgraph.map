@@ -1,0 +1,8 @@
+<map id="found_partition" name="found_partition">
+<area shape="rect" id="node1" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="773,29,884,56"/>
+<area shape="rect" id="node2" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="585,29,725,56"/>
+<area shape="rect" id="node3" href="$partition_8c.html#ae1af155dafc1e46f1725d8061189421a" title="Scans BLOCK for partitions of interest to Pintos." alt="" coords="432,29,537,56"/>
+<area shape="rect" id="node4" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="248,29,384,56"/>
+<area shape="rect" id="node5" href="$ide_8c.html#a5e8e1409e0675bdd93040403c52dd660" title="Initialize the disk subsystem and detect disks." alt="" coords="136,29,200,56"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,29,88,56"/>
+</map>

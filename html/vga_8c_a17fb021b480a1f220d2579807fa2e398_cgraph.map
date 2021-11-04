@@ -1,0 +1,7 @@
+<map id="init" name="init">
+<area shape="rect" id="node1" title="Initializes the VGA text display." alt="" coords="5,56,44,83"/>
+<area shape="rect" id="node2" href="$vga_8c.html#a9b860c306805e85629292c4ab39f0b14" title="Reads the current hardware cursor position into (*X,*Y)." alt="" coords="92,31,180,57"/>
+<area shape="rect" id="node5" href="$vaddr_8h.html#ac8ca05e66698904ad6a0c6ec2ad95e1c" title="Returns kernel virtual address at which physical address PADDR is mapped." alt="" coords="113,81,159,108"/>
+<area shape="rect" id="node3" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Reads and returns a byte from PORT." alt="" coords="232,5,272,32"/>
+<area shape="rect" id="node4" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="228,56,276,83"/>
+</map>

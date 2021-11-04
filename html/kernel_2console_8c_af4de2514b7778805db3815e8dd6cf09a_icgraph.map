@@ -1,0 +1,12 @@
+<map id="putchar" name="putchar">
+<area shape="rect" id="node1" title="Writes C to the vga display and serial port." alt="" coords="640,81,707,108"/>
+<area shape="rect" id="node2" href="$tests_8c.html#a7380daad7085b08d0e037abc3136dccd" title="Prints failure message FORMAT as if with printf(), prefixing the output by the name of the test and F..." alt="" coords="534,5,573,32"/>
+<area shape="rect" id="node3" href="$tests_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title="Prints FORMAT as if with printf(), prefixing the output by the name of the test and following it with..." alt="" coords="530,56,577,83"/>
+<area shape="rect" id="node8" href="$user_2console_8c.html#ad41876f99f190c7488e64ef39c50a23f" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="530,107,577,133"/>
+<area shape="rect" id="node9" href="$shell_8c.html#ae50f2386b53b64d6827fe6e35958898a" title="Reads a line of input from the user into LINE, which has room for SIZE bytes." alt="" coords="515,157,592,184"/>
+<area shape="rect" id="node4" href="$tests_8c.html#a31e43c3ff7a147fd2a262e4f78ea07b4" title="Runs the test named NAME." alt="" coords="396,56,467,83"/>
+<area shape="rect" id="node5" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="275,56,348,83"/>
+<area shape="rect" id="node6" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,56,227,83"/>
+<area shape="rect" id="node7" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,56,88,83"/>
+<area shape="rect" id="node10" href="$shell_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="406,157,457,184"/>
+</map>

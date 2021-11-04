@@ -1,0 +1,7 @@
+<map id="list_push_back" name="list_push_back">
+<area shape="rect" id="node1" title="Inserts ELEM at the end of LIST, so that it becomes the back in LIST." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a4ed47fea6462c7db4fde2d0a30e9ce26" title="Returns LIST&#39;s tail." alt="" coords="169,5,237,32"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a57866ab170795aa4191fa14fa1c39dd3" title="Inserts ELEM just before BEFORE, which may be either an interior element or a tail." alt="" coords="164,56,243,83"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="291,31,371,57"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="303,81,359,108"/>
+</map>

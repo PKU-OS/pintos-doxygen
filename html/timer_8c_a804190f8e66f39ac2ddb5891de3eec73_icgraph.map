@@ -1,0 +1,52 @@
+<map id="busy_wait" name="busy_wait">
+<area shape="rect" id="node1" title="Iterates through a simple loop LOOPS times, for implementing brief delays." alt="" coords="2205,157,2287,184"/>
+<area shape="rect" id="node2" href="$timer_8c.html#a28553fa387ff127de26e330dfcfe9fa1" title="Busy&#45;wait for approximately NUM/DENOM seconds." alt="" coords="2041,259,2157,285"/>
+<area shape="rect" id="node50" href="$timer_8c.html#a90d440c8255d6be2d2647d24cb19954e" title="Returns true if LOOPS iterations waits for more than one timer tick, otherwise false." alt="" coords="1404,5,1524,32"/>
+<area shape="rect" id="node3" href="$timer_8c.html#a9bd10eb80561359273e022f4c80b483f" title="Sleep for approximately NUM/DENOM seconds." alt="" coords="1877,259,1993,285"/>
+<area shape="rect" id="node47" href="$timer_8c.html#ad9c100ae268edb874adef6889e7b5f25" title="Busy&#45;waits for approximately MS milliseconds." alt="" coords="1884,309,1987,336"/>
+<area shape="rect" id="node48" href="$timer_8c.html#af9d5088d990271f0c52dfe8446fcdfff" title="Sleeps execution for approximately NS nanoseconds." alt="" coords="1886,208,1985,235"/>
+<area shape="rect" id="node49" href="$timer_8c.html#a53ab20ea8672cecf19eb4f27c752be3b" title="Sleeps for approximately US microseconds." alt="" coords="1729,791,1827,817"/>
+<area shape="rect" id="node4" href="$timer_8c.html#a10cbeaa00e0ceb825ddd7a44724881c6" title="Sleeps for approximately MS milliseconds." alt="" coords="1727,259,1829,285"/>
+<area shape="rect" id="node43" href="$timer_8c.html#a5d4df9c9580a97f5eee2e70ae8ad43a0" title="Sleeps for approximately NS nanoseconds." alt="" coords="1576,56,1675,83"/>
+<area shape="rect" id="node46" href="$timer_8c.html#ac386900a4e0ba0d6f338b8c5534776d1" title="Sleeps for approximately US microseconds." alt="" coords="819,360,917,387"/>
+<area shape="rect" id="node5" href="$ide_8c.html#a03eb0d9954faefcc1634f76a286f78f5" title="Resets an ATA channel and waits for any devices present on it to finish the reset." alt="" coords="458,157,563,184"/>
+<area shape="rect" id="node8" href="$speaker_8c.html#a1326dce269503d1ba9fac4e40cdf453e" title="Briefly beep the PC speaker." alt="" coords="1572,323,1679,349"/>
+<area shape="rect" id="node42" href="$ide_8c.html#a32d318073c2235e9b03bd77ed17ae580" title="Wait up to 30 seconds for disk D to clear BSY, and then return the status of the DRQ bit." alt="" coords="639,309,757,336"/>
+<area shape="rect" id="node6" href="$ide_8c.html#a5e8e1409e0675bdd93040403c52dd660" title="Initialize the disk subsystem and detect disks." alt="" coords="142,227,206,253"/>
+<area shape="rect" id="node7" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,411,88,437"/>
+<area shape="rect" id="node9" href="$vga_8c.html#a39f191e69844ad1aca267e74223651bd" title="Writes C to the VGA text display, interpreting control characters in the conventional ways." alt="" coords="1426,348,1502,375"/>
+<area shape="rect" id="node10" href="$kernel_2console_8c.html#a5d98987075545c56db87c51597a04bdd" title="Writes C to the vga display and serial port." alt="" coords="1223,360,1356,387"/>
+<area shape="rect" id="node11" href="$kernel_2console_8c.html#a6912abfdc7e2b2345da944f82cb8305b" title="Writes the N characters in BUFFER to the console." alt="" coords="1094,309,1153,336"/>
+<area shape="rect" id="node12" href="$kernel_2console_8c.html#af4de2514b7778805db3815e8dd6cf09a" title="Writes C to the vga display and serial port." alt="" coords="835,1019,901,1045"/>
+<area shape="rect" id="node20" href="$kernel_2console_8c.html#ad41876f99f190c7488e64ef39c50a23f" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="1100,360,1147,387"/>
+<area shape="rect" id="node21" href="$kernel_2console_8c.html#ada83ac3a119c57c68d54ab7a5c805de3" title="Helper function for vprintf()." alt="" coords="1072,531,1175,557"/>
+<area shape="rect" id="node13" href="$tests_8c.html#a7380daad7085b08d0e037abc3136dccd" title="Prints failure message FORMAT as if with printf(), prefixing the output by the name of the test and F..." alt="" coords="679,917,717,944"/>
+<area shape="rect" id="node14" href="$tests_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title="Prints FORMAT as if with printf(), prefixing the output by the name of the test and following it with..." alt="" coords="675,867,721,893"/>
+<area shape="rect" id="node17" href="$user_2console_8c.html#ad41876f99f190c7488e64ef39c50a23f" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="675,1019,721,1045"/>
+<area shape="rect" id="node18" href="$shell_8c.html#ae50f2386b53b64d6827fe6e35958898a" title="Reads a line of input from the user into LINE, which has room for SIZE bytes." alt="" coords="472,1019,549,1045"/>
+<area shape="rect" id="node15" href="$tests_8c.html#a31e43c3ff7a147fd2a262e4f78ea07b4" title="Runs the test named NAME." alt="" coords="475,765,546,792"/>
+<area shape="rect" id="node16" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="291,740,365,767"/>
+<area shape="rect" id="node19" href="$shell_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="303,1019,353,1045"/>
+<area shape="rect" id="node22" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="965,601,1024,628"/>
+<area shape="rect" id="node23" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="279,968,377,995"/>
+<area shape="rect" id="node24" href="$lib_2stdio_8c.html#a98631211a4a8aee62f572375d5b637be" title="Writes formatted output to the console." alt="" coords="842,581,894,608"/>
+<area shape="rect" id="node36" href="$insult_8c.html#a727c30b9bfdf10e2f075dfb927e443b7" title=" " alt="" coords="669,411,727,437"/>
+<area shape="rect" id="node25" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="636,613,760,640"/>
+<area shape="rect" id="node26" href="$tar_8c.html#a736a422fc49cb04f6601997fb136c19c" title=" " alt="" coords="466,563,555,589"/>
+<area shape="rect" id="node27" href="$tar_8c.html#a95557238bd1ce1ece7c3859eff9888dc" title=" " alt="" coords="625,461,771,488"/>
+<area shape="rect" id="node28" href="$shell_8c.html#a0abb03c13300144f4e7c50807e31ca3a" title="If *POS is past the beginning of LINE, backs up one character position." alt="" coords="655,816,741,843"/>
+<area shape="rect" id="node29" href="$block_8c.html#af1e8b4db376000c3c1824b19a3984fbb" title="Prints statistics for each block device used for a Pintos role." alt="" coords="637,563,759,589"/>
+<area shape="rect" id="node30" href="$block_8c.html#a39d3d6f31410885d66cf8f719339d79d" title="Registers a new block device with the given NAME." alt="" coords="458,208,563,235"/>
+<area shape="rect" id="node31" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="260,259,396,285"/>
+<area shape="rect" id="node32" href="$shutdown_8c.html#a4e8c2a9ddd57dd588fd5b7c4464ea4a4" title="Reboots the machine via the keyboard controller." alt="" coords="636,1120,760,1147"/>
+<area shape="rect" id="node35" href="$timer_8c.html#a8a4e243d361cd252de04175b1b53c419" title="Calibrates loops_per_tick, used to implement brief delays." alt="" coords="643,5,753,32"/>
+<area shape="rect" id="node37" href="$ide_8c.html#ac51161a8c0b58de728cb08a3ff722b0f" title="Low&#45;level ATA primitives." alt="" coords="645,360,751,387"/>
+<area shape="rect" id="node33" href="$kbd_8c.html#a342c6a1eb911b8e2a65a5dfba072492b" title=" " alt="" coords="444,1120,577,1147"/>
+<area shape="rect" id="node34" href="$shutdown_8c.html#a1c9d5e29ad8899afe0c34571ddee18f9" title="Shuts down the machine in the way configured by shutdown_configure()." alt="" coords="471,1069,550,1096"/>
+<area shape="rect" id="node38" href="$ide_8c.html#a5d8393ec752f120abb30d97b14a69600" title="Select disk D in its channel, as select_device(), but wait for the channel to become idle before and ..." alt="" coords="444,411,577,437"/>
+<area shape="rect" id="node39" href="$ide_8c.html#ad7c31783f9f455b20c35d43f46ee03d8" title="Selects device D, waiting for it to become ready, and then writes SEC_NO to the disk&#39;s sector selecti..." alt="" coords="278,411,378,437"/>
+<area shape="rect" id="node40" href="$ide_8c.html#afc9cbaf0892e023867624dca21f5bfa2" title="Reads sector SEC_NO from disk D into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="137,436,211,463"/>
+<area shape="rect" id="node41" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="136,372,212,399"/>
+<area shape="rect" id="node44" href="$ide_8c.html#a7252ab4c28b6aed431703ba2b124e05e" title="Program D&#39;s channel so that D is now the selected disk." alt="" coords="647,56,749,83"/>
+<area shape="rect" id="node45" href="$ide_8c.html#afb1b543e585d7b5757bf9406b8705349" title="Checks whether device D is an ATA disk and sets D&#39;s is_ata member appropriately." alt="" coords="260,119,396,145"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="pde_create" name="pde_create">
+<area shape="rect" id="node1" title="Returns a PDE that points to page table PT." alt="" coords="1457,284,1547,311"/>
+<area shape="rect" id="node2" href="$pagedir_8c.html#a309fc79834d80e78b36294f270927744" title="Returns the address of the page table entry for virtual address VADDR in page directory PD." alt="" coords="1311,183,1409,209"/>
+<area shape="rect" id="node19" href="$init_8c.html#a83a23df197d45e3798aaa46d01d06af7" title="Populates the base page directory and page table with the kernel virtual mapping, and then sets up th..." alt="" coords="969,360,1055,387"/>
+<area shape="rect" id="node3" href="$pagedir_8c.html#a6379f06b2c8e0923c86e5948ff1da7a9" title="Marks user virtual page UPAGE &quot;not present&quot; in page directory PD." alt="" coords="1115,5,1255,32"/>
+<area shape="rect" id="node4" href="$pagedir_8c.html#a8093fa1c0a54bdc624cb6fb619a86746" title="Looks up the physical address that corresponds to user virtual address UADDR in PD." alt="" coords="1120,56,1249,83"/>
+<area shape="rect" id="node14" href="$pagedir_8c.html#a417a00146a2d07eb0d0dfd7c7fd7f13c" title="Returns true if the PTE for virtual page VPAGE in PD has been accessed recently, that is,..." alt="" coords="1111,107,1258,133"/>
+<area shape="rect" id="node15" href="$pagedir_8c.html#a1d5de85f35e83577a5637b067da2d3c4" title="Returns true if the PTE for virtual page VPAGE in PD is dirty, that is, if the page has been modified..." alt="" coords="1127,157,1243,184"/>
+<area shape="rect" id="node16" href="$pagedir_8c.html#a2fabddf918d199c2996a61357a584173" title="Sets the accessed bit to ACCESSED in the PTE for virtual page VPAGE in PD." alt="" coords="1107,208,1263,235"/>
+<area shape="rect" id="node17" href="$pagedir_8c.html#a15ac1b1be9791df0327744a9f7801811" title="Set the dirty bit to DIRTY in the PTE for virtual page VPAGE in PD." alt="" coords="1123,259,1247,285"/>
+<area shape="rect" id="node18" href="$pagedir_8c.html#a87fb1ae04e5465c21f1cf3d07d85b199" title="Adds a mapping in page directory PD from user virtual page UPAGE to the physical frame identified by ..." alt="" coords="1120,309,1249,336"/>
+<area shape="rect" id="node5" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="965,284,1059,311"/>
+<area shape="rect" id="node6" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="812,259,917,285"/>
+<area shape="rect" id="node13" href="$process_8c.html#a5064a62e44eba6572e28f9e2274b4e84" title="Create a minimal stack by mapping a zeroed page at the top of user virtual memory." alt="" coords="818,309,911,336"/>
+<area shape="rect" id="node7" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="717,309,764,336"/>
+<area shape="rect" id="node8" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="567,309,669,336"/>
+<area shape="rect" id="node9" href="$process_8c.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="396,309,519,336"/>
+<area shape="rect" id="node10" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="275,309,348,336"/>
+<area shape="rect" id="node11" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,309,227,336"/>
+<area shape="rect" id="node12" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,335,88,361"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="block_size" name="block_size">
+<area shape="rect" id="node1" title="Returns the number of bytes allocated for BLOCK." alt="" coords="5,31,89,57"/>
+<area shape="rect" id="node2" href="$malloc_8c.html#a5db3c69e2b5fc7fb13fa1f663df2bf03" title="Returns the arena that block B is inside." alt="" coords="137,56,251,83"/>
+<area shape="rect" id="node3" href="$vaddr_8h.html#ac12acb882dfd1a70e6c8f69935dc3747" title="Offset within a page." alt="" coords="326,5,389,32"/>
+<area shape="rect" id="node4" href="$vaddr_8h.html#a42d21e08e54a8ca6c174c731df74fd3e" title="Round down to nearest page boundary." alt="" coords="299,56,416,83"/>
+</map>

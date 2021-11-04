@@ -1,0 +1,9 @@
+<map id="wait_while_busy" name="wait_while_busy">
+<area shape="rect" id="node1" title="Wait up to 30 seconds for disk D to clear BSY, and then return the status of the DRQ bit." alt="" coords="432,81,551,108"/>
+<area shape="rect" id="node2" href="$ide_8c.html#afc9cbaf0892e023867624dca21f5bfa2" title="Reads sector SEC_NO from disk D into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="279,5,353,32"/>
+<area shape="rect" id="node3" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="278,56,354,83"/>
+<area shape="rect" id="node4" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="248,107,384,133"/>
+<area shape="rect" id="node7" href="$ide_8c.html#a03eb0d9954faefcc1634f76a286f78f5" title="Resets an ATA channel and waits for any devices present on it to finish the reset." alt="" coords="263,157,369,184"/>
+<area shape="rect" id="node5" href="$ide_8c.html#a5e8e1409e0675bdd93040403c52dd660" title="Initialize the disk subsystem and detect disks." alt="" coords="136,132,200,159"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,132,88,159"/>
+</map>

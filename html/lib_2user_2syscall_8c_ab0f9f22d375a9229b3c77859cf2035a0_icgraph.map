@@ -1,0 +1,22 @@
+<map id="read" name="read">
+<area shape="rect" id="node1" title=" " alt="" coords="640,208,689,235"/>
+<area shape="rect" id="node2" href="$tar_8c.html#a95557238bd1ce1ece7c3859eff9888dc" title=" " alt="" coords="447,44,592,71"/>
+<area shape="rect" id="node7" href="$lib_8c.html#ac791f87f4ee593420941edb27a88ac51" title=" " alt="" coords="455,107,584,133"/>
+<area shape="rect" id="node13" href="$cat_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="cat.c" alt="" coords="494,157,545,184"/>
+<area shape="rect" id="node14" href="$shell_8c.html#ae50f2386b53b64d6827fe6e35958898a" title="Reads a line of input from the user into LINE, which has room for SIZE bytes." alt="" coords="481,208,558,235"/>
+<area shape="rect" id="node16" href="$squish-pty_8c.html#a85b966702ccfe9626963ca230aa75c74" title="Copies data from stdin to PTY and from PTY to stdout until no more data can be read or written." alt="" coords="494,259,545,285"/>
+<area shape="rect" id="node18" href="$page-merge-seq_8c.html#a44e97d47c126cfbe7372e4b0269720b4" title="Sort each chunk of buf1 using a subprocess." alt="" coords="473,309,566,336"/>
+<area shape="rect" id="node20" href="$syn-remove_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="479,360,559,387"/>
+<area shape="rect" id="node3" href="$tar_8c.html#a736a422fc49cb04f6601997fb136c19c" title=" " alt="" coords="309,31,399,57"/>
+<area shape="rect" id="node4" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="135,5,259,32"/>
+<area shape="rect" id="node5" href="$tar_8c.html#a5758c0d6627e2210b6e18ec360169e91" title=" " alt="" coords="133,56,261,83"/>
+<area shape="rect" id="node6" href="$tar_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="20,56,71,83"/>
+<area shape="rect" id="node8" href="$lib_8c.html#a904d20a186bc5ffec3da0c1045bd2cf4" title=" " alt="" coords="313,107,395,133"/>
+<area shape="rect" id="node12" href="$multi-child-fd_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Opens a file and then runs a subprocess that tries to close the file." alt="" coords="314,157,394,184"/>
+<area shape="rect" id="node9" href="$seq-test_8c.html#ad8cec223129971af68dbb2b7671dcf3a" title="tests/filesys/seq&#45;test.h" alt="" coords="161,107,233,133"/>
+<area shape="rect" id="node11" href="$grow-sparse_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="157,157,237,184"/>
+<area shape="rect" id="node10" href="$grow-file-size_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="5,107,85,133"/>
+<area shape="rect" id="node15" href="$shell_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="329,208,379,235"/>
+<area shape="rect" id="node17" href="$squish-pty_8c.html#aad96cfd5b985d826fb68b8b343e5a0c8" title=" " alt="" coords="329,259,379,285"/>
+<area shape="rect" id="node19" href="$page-merge-seq_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="314,309,394,336"/>
+</map>

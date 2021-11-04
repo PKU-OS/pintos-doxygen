@@ -1,0 +1,52 @@
+<map id="ptov" name="ptov">
+<area shape="rect" id="node1" title="Returns kernel virtual address at which physical address PADDR is mapped." alt="" coords="1600,689,1647,716"/>
+<area shape="rect" id="node2" href="$pagedir_8c.html#a04a6fbff68b847cb657284fc95ab813a" title="Returns the currently active page directory." alt="" coords="1472,500,1551,527"/>
+<area shape="rect" id="node7" href="$vga_8c.html#a17fb021b480a1f220d2579807fa2e398" title="Initializes the VGA text display." alt="" coords="1492,365,1531,392"/>
+<area shape="rect" id="node31" href="$init_8c.html#ae58b8c3dee90e04a151d5f9ee45799c5" title="Breaks the kernel command line into words and returns them as an argv&#45;like array." alt="" coords="459,563,601,589"/>
+<area shape="rect" id="node34" href="$init_8c.html#a83a23df197d45e3798aaa46d01d06af7" title="Populates the base page directory and page table with the kernel virtual mapping, and then sets up th..." alt="" coords="1335,841,1421,868"/>
+<area shape="rect" id="node35" href="$palloc_8c.html#acc2c206763e5de4e4414fda821ca6db8" title="Initializes the page allocator." alt="" coords="1471,740,1552,767"/>
+<area shape="rect" id="node36" href="$pte_8h.html#af261409ae0b2376eb84f0141af6269df" title="Returns a pointer to the page table that page directory entry PDE, which must &quot;present&quot;,..." alt="" coords="1333,689,1423,716"/>
+<area shape="rect" id="node50" href="$pte_8h.html#a74bfe6c82c7b9fe6c3d8a95bf720615c" title="Returns a pointer to the page that page table entry PTE points to." alt="" coords="1167,664,1271,691"/>
+<area shape="rect" id="node3" href="$pagedir_8c.html#a34a30f77936061902485b4d0f97f7621" title="Seom page table changes can cause the CPU&#39;s translation lookaside buffer (TLB) to become out&#45;of&#45;sync ..." alt="" coords="1153,433,1284,460"/>
+<area shape="rect" id="node4" href="$pagedir_8c.html#a6379f06b2c8e0923c86e5948ff1da7a9" title="Marks user virtual page UPAGE &quot;not present&quot; in page directory PD." alt="" coords="956,461,1096,488"/>
+<area shape="rect" id="node5" href="$pagedir_8c.html#a2fabddf918d199c2996a61357a584173" title="Sets the accessed bit to ACCESSED in the PTE for virtual page VPAGE in PD." alt="" coords="948,360,1104,387"/>
+<area shape="rect" id="node6" href="$pagedir_8c.html#a15ac1b1be9791df0327744a9f7801811" title="Set the dirty bit to DIRTY in the PTE for virtual page VPAGE in PD." alt="" coords="964,411,1088,437"/>
+<area shape="rect" id="node8" href="$vga_8c.html#a39f191e69844ad1aca267e74223651bd" title="Writes C to the VGA text display, interpreting control characters in the conventional ways." alt="" coords="1340,281,1416,308"/>
+<area shape="rect" id="node9" href="$kernel_2console_8c.html#a5d98987075545c56db87c51597a04bdd" title="Writes C to the vga display and serial port." alt="" coords="1152,157,1285,184"/>
+<area shape="rect" id="node10" href="$kernel_2console_8c.html#a6912abfdc7e2b2345da944f82cb8305b" title="Writes the N characters in BUFFER to the console." alt="" coords="997,157,1055,184"/>
+<area shape="rect" id="node11" href="$kernel_2console_8c.html#af4de2514b7778805db3815e8dd6cf09a" title="Writes C to the vga display and serial port." alt="" coords="669,56,735,83"/>
+<area shape="rect" id="node19" href="$kernel_2console_8c.html#ad41876f99f190c7488e64ef39c50a23f" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="1003,107,1049,133"/>
+<area shape="rect" id="node20" href="$kernel_2console_8c.html#ada83ac3a119c57c68d54ab7a5c805de3" title="Helper function for vprintf()." alt="" coords="975,208,1077,235"/>
+<area shape="rect" id="node12" href="$tests_8c.html#a7380daad7085b08d0e037abc3136dccd" title="Prints failure message FORMAT as if with printf(), prefixing the output by the name of the test and F..." alt="" coords="511,107,549,133"/>
+<area shape="rect" id="node13" href="$tests_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title="Prints FORMAT as if with printf(), prefixing the output by the name of the test and following it with..." alt="" coords="507,157,553,184"/>
+<area shape="rect" id="node16" href="$user_2console_8c.html#ad41876f99f190c7488e64ef39c50a23f" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="507,5,553,32"/>
+<area shape="rect" id="node17" href="$shell_8c.html#ae50f2386b53b64d6827fe6e35958898a" title="Reads a line of input from the user into LINE, which has room for SIZE bytes." alt="" coords="491,56,569,83"/>
+<area shape="rect" id="node14" href="$tests_8c.html#a31e43c3ff7a147fd2a262e4f78ea07b4" title="Runs the test named NAME." alt="" coords="162,233,233,260"/>
+<area shape="rect" id="node15" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="10,309,83,336"/>
+<area shape="rect" id="node18" href="$shell_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="333,56,384,83"/>
+<area shape="rect" id="node21" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="822,208,881,235"/>
+<area shape="rect" id="node22" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="481,259,579,285"/>
+<area shape="rect" id="node23" href="$lib_2stdio_8c.html#a98631211a4a8aee62f572375d5b637be" title="Writes formatted output to the console." alt="" coords="676,335,728,361"/>
+<area shape="rect" id="node33" href="$insult_8c.html#a727c30b9bfdf10e2f075dfb927e443b7" title=" " alt="" coords="501,208,559,235"/>
+<area shape="rect" id="node24" href="$exception_8c.html#a6984b10e1d2a817938f8e70a89d13ff9" title="Handler for an exception (probably) caused by a user process." alt="" coords="511,461,549,488"/>
+<area shape="rect" id="node26" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,639,88,665"/>
+<area shape="rect" id="node27" href="$exception_8c.html#a22263f7481f54fafb7a06f63ea1675c3" title="Page fault handler." alt="" coords="317,417,401,444"/>
+<area shape="rect" id="node28" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="507,512,553,539"/>
+<area shape="rect" id="node32" href="$userprog_2syscall_8c.html#a433a22b69ff6c6b56fe2bd9214c2ecc9" title=" " alt="" coords="473,613,587,640"/>
+<area shape="rect" id="node25" href="$exception_8c.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="145,468,249,495"/>
+<area shape="rect" id="node29" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="307,525,410,552"/>
+<area shape="rect" id="node30" href="$process_8c.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="136,525,259,552"/>
+<area shape="rect" id="node37" href="$pagedir_8c.html#a309fc79834d80e78b36294f270927744" title="Returns the address of the page table entry for virtual address VADDR in page directory PD." alt="" coords="1169,537,1268,564"/>
+<area shape="rect" id="node45" href="$pagedir_8c.html#ab1919f57e1ba60ed2c2f46b4410e9799" title="Destroys page directory PD, freeing all the pages it references." alt="" coords="967,715,1085,741"/>
+<area shape="rect" id="node38" href="$pagedir_8c.html#a8093fa1c0a54bdc624cb6fb619a86746" title="Looks up the physical address that corresponds to user virtual address UADDR in PD." alt="" coords="961,664,1091,691"/>
+<area shape="rect" id="node42" href="$pagedir_8c.html#a417a00146a2d07eb0d0dfd7c7fd7f13c" title="Returns true if the PTE for virtual page VPAGE in PD has been accessed recently, that is,..." alt="" coords="953,563,1099,589"/>
+<area shape="rect" id="node43" href="$pagedir_8c.html#a1d5de85f35e83577a5637b067da2d3c4" title="Returns true if the PTE for virtual page VPAGE in PD is dirty, that is, if the page has been modified..." alt="" coords="968,613,1084,640"/>
+<area shape="rect" id="node44" href="$pagedir_8c.html#a87fb1ae04e5465c21f1cf3d07d85b199" title="Adds a mapping in page directory PD from user virtual page UPAGE to the physical frame identified by ..." alt="" coords="961,512,1091,539"/>
+<area shape="rect" id="node39" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="805,525,898,552"/>
+<area shape="rect" id="node40" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="649,500,755,527"/>
+<area shape="rect" id="node41" href="$process_8c.html#a5064a62e44eba6572e28f9e2274b4e84" title="Create a minimal stack by mapping a zeroed page at the top of user virtual memory." alt="" coords="655,551,749,577"/>
+<area shape="rect" id="node46" href="$process_8c.html#aebdb54e5e3307f27106f43a7c4d3536c" title="Free the current process&#39;s resources." alt="" coords="803,715,900,741"/>
+<area shape="rect" id="node47" href="$thread_8c.html#a87c2438941819bb3cc31658aa9eb66fe" title="Deschedules the current thread and destroys it." alt="" coords="658,715,746,741"/>
+<area shape="rect" id="node48" href="$thread_8c.html#ac40007d0837868671dffa80f581b4723" title="Function used as the basis for a kernel thread." alt="" coords="478,715,582,741"/>
+<area shape="rect" id="node49" href="$thread_8c.html#a8f7759a71c1c49fc8761ef92aa90a36d" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="307,664,411,691"/>
+</map>
